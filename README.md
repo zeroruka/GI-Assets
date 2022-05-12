@@ -10,3 +10,4 @@ A collection of Genshin Character Texture files for modding
  5. Load texture into genshin using [ModelChanger](https://github.com/portra400nc/ModelChanger) 
 
 *Alpha value determines brightness of texture in game*
+*Hide alpha layer in your photo editor to view full texture*
