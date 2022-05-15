@@ -1,7 +1,7 @@
 [中文](https://github.com/zeroruka/GI_Textures/blob/main/CN_README.md) | English
 # GI Textures
 A collection of Genshin Character Texture files for modding
-
+Feel free to add any textures/modding resources to this repository!
 ## Guide
  1. Download any texture you want to modify
  2. Open in [GIMP](https://www.gimp.org/)
