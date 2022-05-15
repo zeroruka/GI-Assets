@@ -10,10 +10,10 @@ A collection of Genshin Character Texture files for modding
  4. Choose Transfer layer's alpha channel and add mask.
 > ![](https://i.imgur.com/6LelrEy_d.webp?maxwidth=760&fidelity=grand)
  5. Use the bucket fill tool and click on the canvas. Make sure fill colour is white, and opacity is 1-2%
- 6. Switch over from Layers tab to Channels tab.
- 7. Hide the Alpha channel and select Alpha channel
-  **Make sure Alpha channel is selected**
->![Make Sure Alpha is selected](https://i.imgur.com/2t5FcUP_d.webp?maxwidth=760&fidelity=grand)
+ 6. Switch from Mask back to picture in Layers tab, and then switch over from Layers tab to Channels tab.
+ 7. Hide the Alpha channel and deselect Alpha channel
+  **Make sure Alpha channel is not selected as shown below**
+>![Make Sure Alpha is not selected](https://i.imgur.com/2t5FcUP_d.webp?maxwidth=760&fidelity=grand)
  8. Now you can edit the image. 
  9. Export the edited image as png, or overwrite the existing file.
  10. Load texture into genshin using [ModelChanger](https://github.com/portra400nc/ModelChanger) or Scripts
