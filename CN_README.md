@@ -1,7 +1,7 @@
 中文 | [English](https://github.com/zeroruka/GI_Textures)
 # 原神资源
 角色贴图合集
-
+欢迎添加自己做的贴图与脚本！
 ## 使用说明
  1. 下载任何人物贴图
  2. 在 [GIMP](https://www.gimp.org/) 中打开
