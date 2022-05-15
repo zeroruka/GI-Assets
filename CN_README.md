@@ -1,3 +1,4 @@
+中文 | [English](https://github.com/zeroruka/GI_Textures)
 # 原神资源
 角色贴图合集
 
