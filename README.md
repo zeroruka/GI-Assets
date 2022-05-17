@@ -51,6 +51,7 @@ Since SpecialK uses .dds format, GIMP could not be used. We will use "Paint .NET
 
 Make sure the following settings are the same:
 ![enter image description here](https://i.imgur.com/eqduxlc_d.webp?maxwidth=760&fidelity=grand)
+
 Under Hardware Monitoring, Choose NvAPI if you have NVIDIA GPU, and ADL if you have AMD GPU
 **Read the SpecialK [wiki](https://wiki.special-k.info/SpecialK) for more information**
 ## Important notes (*pls read*)
