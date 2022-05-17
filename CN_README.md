@@ -3,6 +3,7 @@
 角色贴图合集
 欢迎添加自己做的贴图与脚本！
 ## 使用说明
+### 方法一 （适合测试）
  1. 下载任何人物贴图
  2. 在 [GIMP](https://www.gimp.org/) 中打开
  3. 选中主图层, 右键点击并选择添加图层蒙版
@@ -18,13 +19,46 @@
  9. 导出图片为png格式
  10. 使用 [ModelChanger](https://github.com/portra400nc/ModelChanger) 或脚本替换贴图
 
-## FAQ 
-> Q: 这么多文件夹，我该用哪个？
+### 方法二 （有lim支持）
+**配置 SpecialK**
 
-A: 目前只有 BodyDiffuse, FaceDiffuse, 和 HairDiffuse 文件夹里的贴图可以在游戏内被替换
+1. 在[这里](https://wiki.special-k.info/SpecialK/Global)下载 SpecialK Global Injector (SKIF) 
+2. 以管理员身份运行 SpecialK (***重要***)
+3. 添加原神到 SpecialK 的游戏库
+4. 从 SpecialK 里启动原神 *(注: 可能需要多次尝试才能成功)*
+5. 按 ctrl + shift + backspace 打开 SpecialK 菜单
+6. 把 sRGB bypass 从 Passthrough 换到 Strip
+>![enter image description here](https://i.imgur.com/gkqZibH_d.webp?maxwidth=760&fidelity=grand)
+7. 打开 'Render Mod Tools' 查看所有游戏材质
+*要是闪退请看常见问题*
 
-BodyDiffuse 为主材质
-FaceDiffuse 为脸部材质
-HairDiffuse 为头发材质
+**制作贴图**
+因为 SpecialK 用的是 .dds 格式, 我们不能使用 GIMP， 所以我们会用 "Paint .NET"
 
-LightMap 和 ShadowRamp 现在无法导入游戏
+1. 在[这里](https://www.getpaint.net/download.html)下载 Paint .NET 
+2. 下载并安装以下插件: [DDS File Type Plus](https://forums.getpaint.net/topic/111731-dds-filetype-plus-04-11-2022/) and [Modify Channels](https://forums.getpaint.net/topic/110805-modify-channels-v111-2022-03-07/)
+3.  跟着[这个](https://steamcommunity.com/sharedfiles/filedetails/?id=1491783680)指南获取游戏dds格式贴图。阅读 Get Textures 部分.
+4. 有了材质就可以编辑啦, 保存文件时要注意打开 'Generate Mip Map' 并保存文件为以下格式 
+> Diffuse textures --> BC7 (sRGB, DX 11+)
+
+> Lightmaps --> BC7 (Linear, DX 11+)
+5. 继续阅读[这个指南](https://steamcommunity.com/sharedfiles/filedetails/?id=1491783680) Loading Texture 的部分
+
+**常见问题**
+
+> 点击 'Render Mod Tools' 后游戏会闪退？
+
+查看以下设定是否正确:
+![enter image description here](https://i.imgur.com/eqduxlc_d.webp?maxwidth=760&fidelity=grand)
+
+在 Hardware Monitoring 下, 用的是N卡就选 NvAPI，否则选 ADL
+**更多详情在 [wiki](https://wiki.special-k.info/SpecialK) 上查看**
+## 重要注意事项 (*仔细阅读*)
+
+1. If you use Method 1, ModelChanger/UnityExplorer does not currently support replacing lightmaps. Only Method 2 will be able to replace lightmaps.
+2. SpecialK can be loaded simultaneously with Melon. There should be no conflicts.
+3. SpecialK is better than UnityExplorer at changing textures, however SpecialK cannot import models.
+4. SpecialK is more suited for deploying textures since it requires restart of game to load new changes to textures while UnityExplorer doesn't.
+5. SpecialK automatically replaces textures, therefore teleporting to a waypoint does not affect modded textures.
+6. SpecialK uses .dds format instead of png
+
