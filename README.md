@@ -41,6 +41,7 @@ Since SpecialK uses .dds format, GIMP could not be used. We will use "Paint .NET
 3.  Follow [this](https://steamcommunity.com/sharedfiles/filedetails/?id=1491783680) guide to dump any game texture that you want to modify. Jump to Get Textures section of the guide.
 4. Modify textures to your likings, save files in the corresponding formats below and make sure to turn on 'Generate Mip Map'
 > Diffuse textures --> BC7 (sRGB, DX 11+)
+
 > Lightmaps --> BC7 (Linear, DX 11+)
 5. Continue following [this](https://steamcommunity.com/sharedfiles/filedetails/?id=1491783680) guide once you have finished editing your textures.
 
