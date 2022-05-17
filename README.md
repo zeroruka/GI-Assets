@@ -1,8 +1,10 @@
+
 [中文](https://github.com/zeroruka/GI_Textures/blob/main/CN_README.md) | English
 # GI Textures
 A collection of Genshin Character Texture files for modding.
 Feel free to add any textures/modding resources(including scripts) to this repository!
 ## Guide
+### Method 1 (recommended for testing)
  1. Download any texture you want to modify
  2. Open in [GIMP](https://www.gimp.org/)
  3. Select main layer, right click and select add layer mask
@@ -18,9 +20,43 @@ Feel free to add any textures/modding resources(including scripts) to this repos
  9. Export the edited image as png, or overwrite the existing file.
  10. Load texture into genshin using [ModelChanger](https://github.com/portra400nc/ModelChanger) or Scripts
 
-## FAQ
+### Method 2 (better for deploying and lightmap)
+**Setting up SpecialK**
 
-> Q: There are so many folders! Which file should I use?
+1. Download SpecialK Global Injector (SKIF) [here](https://wiki.special-k.info/SpecialK/Global)
+2. Run SpecialK as admin (***Important***)
+3. Add Genshin to Game Library
+4. Start Genshin from SpecialK launcher *(note: it might take a few tries to succesfully inject SpecialK)*
+5. Press ctrl + shift + backspace to open SpecialK menu
+6. Change sRGB bypass from Passthrough to Strip
+>![enter image description here](https://i.imgur.com/gkqZibH_d.webp?maxwidth=760&fidelity=grand)
+7. Open 'Render Mod Tools' to see all textures for dumping. 
+*see troubleshooting if crash*
 
-A: For now, only textures in BodyDiffuse, FaceDiffuse, and HairDiffuse folders can be replaced in-game. 
+**Making textures**
+Since SpecialK uses .dds format, GIMP could not be used. We will use "Paint .NET" instead
 
+1. Download Paint .NET [here](https://www.getpaint.net/download.html)
+2. Download and install the following plugins: [DDS File Type Plus](https://forums.getpaint.net/topic/111731-dds-filetype-plus-04-11-2022/) and [Modify Channels](https://forums.getpaint.net/topic/110805-modify-channels-v111-2022-03-07/)
+3.  Follow [this](https://steamcommunity.com/sharedfiles/filedetails/?id=1491783680) guide to dump any game texture that you want to modify. Jump to Get Textures section of the guide.
+4. Modify textures to your likings, save files in the corresponding formats below and make sure to turn on 'Generate Mip Map'
+> Diffuse textures --> BC7 (sRGB, DX 11+)
+> Lightmaps --> BC7 (Linear, DX 11+)
+5. Continue following [this](https://steamcommunity.com/sharedfiles/filedetails/?id=1491783680) guide once you have finished editing your textures.
+
+**Troubleshooting**
+
+> Game crashes whenever 'Render Mod Tools' menu is opened?
+
+Make sure the following settings are the same:
+![enter image description here](https://i.imgur.com/eqduxlc_d.webp?maxwidth=760&fidelity=grand)
+Under Hardware Monitoring, Choose NvAPI if you have NVIDIA GPU, and ADL if you have AMD GPU
+**Read the SpecialK [wiki](https://wiki.special-k.info/SpecialK) for more information**
+## Important notes (*pls read*)
+
+1. If you use Method 1, ModelChanger/UnityExplorer does not currently support replacing lightmaps. Only Method 2 will be able to replace lightmaps.
+2. SpecialK can be loaded simultaneously with Melon. There should be no conflicts.
+3. SpecialK is better than UnityExplorer at changing textures, however SpecialK cannot import models.
+4. SpecialK is more suited for deploying textures since it requires restart of game to load new changes to textures while UnityExplorer doesn't.
+5. SpecialK automatically replaces textures, therefore teleporting to a waypoint does not affect modded textures.
+6. SpecialK uses .dds format instead of png
