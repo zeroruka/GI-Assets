@@ -33,6 +33,7 @@
 *要是闪退请看常见问题*
 
 **制作贴图**
+
 因为 SpecialK 用的是 .dds 格式, 我们不能使用 GIMP， 所以我们会用 "Paint .NET"
 
 1. 在[这里](https://www.dotpdn.com/files/paint.net.4.3.10.install.anycpu.web.zip)下载 Paint .NET 
