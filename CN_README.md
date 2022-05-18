@@ -35,7 +35,7 @@
 **制作贴图**
 因为 SpecialK 用的是 .dds 格式, 我们不能使用 GIMP， 所以我们会用 "Paint .NET"
 
-1. 在[这里](https://www.getpaint.net/download.html)下载 Paint .NET 
+1. 在[这里](https://www.dotpdn.com/files/paint.net.4.3.10.install.anycpu.web.zip)下载 Paint .NET 
 2. 下载并安装以下插件: [DDS File Type Plus](https://forums.getpaint.net/topic/111731-dds-filetype-plus-04-11-2022/) and [Modify Channels](https://forums.getpaint.net/topic/110805-modify-channels-v111-2022-03-07/)
 3.  跟着[这个](https://steamcommunity.com/sharedfiles/filedetails/?id=1491783680)教程获取游戏dds格式贴图。阅读 Get Textures 部分.
 4. 有了材质就可以编辑啦, 保存文件时要注意打开 'Generate Mip Map' 并保存文件为以下格式 
