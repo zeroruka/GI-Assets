@@ -50,7 +50,7 @@
 
 查看以下设定是否正确:
 
-![enter image description here](https://i.imgur.com/eqduxlc_d.webp?maxwidth=760&fidelity=grand)
+>![enter image description here](https://i.imgur.com/eqduxlc_d.webp?maxwidth=760&fidelity=grand)
 
 在 Hardware Monitoring 下, 用的是N卡就选 NvAPI，否则选 ADL
 **更多详情在 [wiki](https://wiki.special-k.info/SpecialK) 上查看**
