@@ -37,12 +37,12 @@
 
 1. 在[这里](https://www.getpaint.net/download.html)下载 Paint .NET 
 2. 下载并安装以下插件: [DDS File Type Plus](https://forums.getpaint.net/topic/111731-dds-filetype-plus-04-11-2022/) and [Modify Channels](https://forums.getpaint.net/topic/110805-modify-channels-v111-2022-03-07/)
-3.  跟着[这个](https://steamcommunity.com/sharedfiles/filedetails/?id=1491783680)指南获取游戏dds格式贴图。阅读 Get Textures 部分.
+3.  跟着[这个](https://steamcommunity.com/sharedfiles/filedetails/?id=1491783680)教程获取游戏dds格式贴图。阅读 Get Textures 部分.
 4. 有了材质就可以编辑啦, 保存文件时要注意打开 'Generate Mip Map' 并保存文件为以下格式 
 > Diffuse textures --> BC7 (sRGB, DX 11+)
 
 > Lightmaps --> BC7 (Linear, DX 11+)
-5. 继续阅读[这个指南](https://steamcommunity.com/sharedfiles/filedetails/?id=1491783680) Loading Texture 的部分
+5. 继续阅读[这个教程](https://steamcommunity.com/sharedfiles/filedetails/?id=1491783680) Loading Texture 的部分
 
 **常见问题**
 
