@@ -34,6 +34,7 @@ Feel free to add any textures/modding resources(including scripts) to this repos
 *see troubleshooting if crash*
 
 **Making textures**
+
 Since SpecialK uses .dds format, GIMP could not be used. We will use "Paint .NET" instead
 
 1. Download Paint .NET [here](https://www.dotpdn.com/files/paint.net.4.3.10.install.anycpu.web.zip)
