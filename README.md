@@ -36,7 +36,7 @@ Feel free to add any textures/modding resources(including scripts) to this repos
 **Making textures**
 Since SpecialK uses .dds format, GIMP could not be used. We will use "Paint .NET" instead
 
-1. Download Paint .NET [here](https://www.getpaint.net/download.html)
+1. Download Paint .NET [here](https://www.dotpdn.com/files/paint.net.4.3.10.install.anycpu.web.zip)
 2. Download and install the following plugins: [DDS File Type Plus](https://forums.getpaint.net/topic/111731-dds-filetype-plus-04-11-2022/) and [Modify Channels](https://forums.getpaint.net/topic/110805-modify-channels-v111-2022-03-07/)
 3.  Follow [this](https://steamcommunity.com/sharedfiles/filedetails/?id=1491783680) guide to dump any game texture that you want to modify. Jump to Get Textures section of the guide.
 4. Modify textures to your likings, save files in the corresponding formats below and make sure to turn on 'Generate Mip Map'
