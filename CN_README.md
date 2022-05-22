@@ -13,6 +13,8 @@
  5. 用填充工具点击图片，确保颜色为白色，不透明度在百分之1-2
  6. 在图层面板里从蒙版换回主图片，然后从图层切换到频道面板
  7. 隐藏Alpha通道，并取消选中Alpha通道
+
+
   **一定不要选中Alpha通道如下**
  >![Make Sure Alpha is not selected](https://i.imgur.com/2t5FcUP_d.webp?maxwidth=760&fidelity=grand)
  8. 现在就可以编辑图片了
