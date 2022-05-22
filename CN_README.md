@@ -1,9 +1,9 @@
 中文 | [English](https://github.com/zeroruka/GI_Textures)
 # 原神资源
 角色贴图合集
-欢迎添加自己做的贴图与脚本！
+
 ## 使用说明
-### 方法一 （适合测试）
+### 方法一 （适合测试贴图）
  1. 下载任何人物贴图
  2. 在 [GIMP](https://www.gimp.org/) 中打开
  3. 选中主图层, 右键点击并选择添加图层蒙版
@@ -19,7 +19,7 @@
  9. 导出图片为png格式
  10. 使用 [ModelChanger](https://github.com/portra400nc/ModelChanger) 或脚本替换贴图
 
-### 方法二 （有lim支持）
+### 方法二 （支持修改lim）
 **配置 SpecialK**
 
 1. 在[这里](https://wiki.special-k.info/SpecialK/Global)下载 SpecialK Global Injector (SKIF) 
@@ -30,11 +30,10 @@
 6. 把 sRGB bypass 从 Passthrough 换到 Strip
 >![enter image description here](https://i.imgur.com/gkqZibH_d.webp?maxwidth=760&fidelity=grand)
 7. 打开 'Render Mod Tools' 查看所有游戏材质
-*要是闪退请看常见问题*
 
 **制作贴图**
 
-因为 SpecialK 用的是 .dds 格式, 我们不能使用 GIMP， 所以我们会用 "Paint .NET"
+因为 SpecialK 用的是 .dds 格式, 我们不能使用 GIMP， 所以要用到 "Paint .NET"
 
 1. 在[这里](https://www.dotpdn.com/files/paint.net.4.3.10.install.anycpu.web.zip)下载 Paint .NET 
 2. 下载并安装以下插件: [DDS File Type Plus](https://forums.getpaint.net/topic/111731-dds-filetype-plus-04-11-2022/) and [Modify Channels](https://forums.getpaint.net/topic/110805-modify-channels-v111-2022-03-07/)
@@ -45,15 +44,7 @@
 > Lightmaps --> BC7 (Linear, DX 11+)
 5. 继续阅读[这个教程](https://steamcommunity.com/sharedfiles/filedetails/?id=1491783680) Loading Texture 的部分
 
-**常见问题**
 
-> 点击 'Render Mod Tools' 后游戏会闪退？
-
-查看以下设定是否正确:
-
->![enter image description here](https://i.imgur.com/eqduxlc_d.webp?maxwidth=760&fidelity=grand)
-
-在 Hardware Monitoring 下, 用的是N卡就选 NvAPI，否则选 ADL
 **更多详情在 [wiki](https://wiki.special-k.info/SpecialK) 上查看**
 ## 重要注意事项 (*仔细阅读*)
 
