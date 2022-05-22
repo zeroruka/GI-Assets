@@ -2,6 +2,8 @@
 [中文](https://github.com/zeroruka/GI_Textures/blob/main/CN_README.md) | English
 # GI Textures
 A collection of Genshin Character Texture files for modding.
+
+
 Feel free to add any textures/modding resources(including scripts) to this repository!
 ## Guide
 ### Method 1 (recommended for testing)
@@ -14,6 +16,8 @@ Feel free to add any textures/modding resources(including scripts) to this repos
  5. Use the bucket fill tool and click on the canvas. Make sure fill colour is white, and opacity is 1-2%
  6. Switch from Mask back to picture in Layers tab, and then switch over from Layers tab to Channels tab.
  7. Hide the Alpha channel and deselect Alpha channel
+
+
   **Make sure Alpha channel is not selected as shown below**
 >![Make Sure Alpha is not selected](https://i.imgur.com/2t5FcUP_d.webp?maxwidth=760&fidelity=grand)
  8. Now you can edit the image. 
@@ -31,7 +35,7 @@ Feel free to add any textures/modding resources(including scripts) to this repos
 6. Change sRGB bypass from Passthrough to Strip
 >![enter image description here](https://i.imgur.com/gkqZibH_d.webp?maxwidth=760&fidelity=grand)
 7. Open 'Render Mod Tools' to see all textures for dumping. 
-*see troubleshooting if crash*
+
 
 **Making textures**
 
@@ -46,15 +50,7 @@ Since SpecialK uses .dds format, GIMP could not be used. We will use "Paint .NET
 > Lightmaps --> BC7 (Linear, DX 11+)
 5. Continue following [this](https://steamcommunity.com/sharedfiles/filedetails/?id=1491783680) guide once you have finished editing your textures.
 
-**Troubleshooting**
 
-> Game crashes whenever 'Render Mod Tools' menu is opened?
-
-Make sure the following settings are the same:
-![enter image description here](https://i.imgur.com/eqduxlc_d.webp?maxwidth=760&fidelity=grand)
-
-Under Hardware Monitoring, Choose NvAPI if you have NVIDIA GPU, and ADL if you have AMD GPU
-**Read the SpecialK [wiki](https://wiki.special-k.info/SpecialK) for more information**
 ## Important notes (*pls read*)
 
 1. If you use Method 1, ModelChanger/UnityExplorer does not currently support replacing lightmaps. Only Method 2 will be able to replace lightmaps.
