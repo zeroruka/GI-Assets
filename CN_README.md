@@ -44,7 +44,7 @@
 > Diffuse textures --> BC7 (sRGB, DX 11+)
 
 > Lightmaps --> BC7 (Linear, DX 11+)
-5. 继续阅读[这个教程](https://steamcommunity.com/sharedfiles/filedetails/?id=1491783680) Loading Texture 的部分
+5. 继续阅读[这个教程](https://steamcommunity.com/sharedfiles/filedetails/?id=1491783680) Inject Texture 的部分
 
 
 **更多详情在 [wiki](https://wiki.special-k.info/SpecialK) 上查看**
