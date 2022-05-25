@@ -63,8 +63,3 @@ Since SpecialK uses .dds format, GIMP could not be used. We will use "Paint .NET
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=zeroruka/GI_Textures&type=Date)](https://star-history.com/#zeroruka/GI_Textures&Date)
-
