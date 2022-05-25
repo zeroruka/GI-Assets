@@ -4,7 +4,6 @@
 A collection of Genshin Character Texture files for modding.
 
 
-Feel free to add any textures/modding resources(including scripts) to this repository!
 ## Guide
 ### Method 1 (recommended for testing)
  1. Download any texture you want to modify
@@ -59,3 +58,7 @@ Since SpecialK uses .dds format, GIMP could not be used. We will use "Paint .NET
 4. SpecialK is more suited for deploying textures since it requires restart of game to load new changes to textures while UnityExplorer doesn't.
 5. SpecialK automatically replaces textures, therefore teleporting to a waypoint does not affect modded textures.
 6. SpecialK uses .dds format instead of png
+
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
