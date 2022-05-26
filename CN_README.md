@@ -57,3 +57,6 @@
 5. SpecialK automatically replaces textures, therefore teleporting to a waypoint does not affect modded textures.
 6. SpecialK uses .dds format instead of png
 
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
