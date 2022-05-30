@@ -50,13 +50,13 @@
 **更多详情在 [wiki](https://wiki.special-k.info/SpecialK) 上查看**
 ## 重要注意事项 (*仔细阅读*)
 
-1. If you use Method 1, ModelChanger/UnityExplorer does not currently support replacing lightmaps. Only Method 2 will be able to replace lightmaps.
-2. SpecialK can be loaded simultaneously with Melon. There should be no conflicts.
-3. SpecialK is better than UnityExplorer at changing textures, however SpecialK cannot import models.
-4. SpecialK is more suited for deploying textures since it requires restart of game to load new changes to textures while UnityExplorer doesn't.
-5. SpecialK automatically replaces textures, therefore teleporting to a waypoint does not affect modded textures.
-6. SpecialK uses .dds format instead of png
+1. 如果你使用方法1, ModelChanger/UnityExplorer都不支持替换lightmaps.只有方法2才行.
+2. SpecialK可以与Melon一起使用. 应该没有冲突.
+3. SpecialK在修改贴图上比UnityExplorer要好,不过SpecialK不能导入贴图.
+4. SpecialK更适合用来部署贴图，因为它需要重新启动游戏才能应用更改.而UnityExplorer则不用.
+5. SpecialK会自动替换贴图，所以使用锚点传送不会影响已经修改过的贴图.
+6. SpecialK使用.dds格式而不是png格式.
 
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+## 贡献
+欢迎提交PR.对于大改动，你应该先开一个issue来讨论一下你要修改的地方.
