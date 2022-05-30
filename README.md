@@ -1,5 +1,5 @@
 
-[中文](https://github.com/zeroruka/GI_Textures/blob/main/CN_README.md) | English
+[中文](README_CN.md) | English
 # GI Textures
 A collection of Genshin Character Texture files for modding.
 
