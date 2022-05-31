@@ -1,5 +1,5 @@
 
-[中文](https://github.com/zeroruka/GI_Textures/blob/main/CN_README.md) | English
+[中文](README_CN.md) | English
 # GI Textures
 A collection of Genshin Character Texture files for modding.
 
@@ -28,8 +28,8 @@ A collection of Genshin Character Texture files for modding.
 
 1. Download SpecialK Global Injector (SKIF) [here](https://wiki.special-k.info/SpecialK/Global)
 2. Run SpecialK as admin (***Important***)
-3. Add Genshin to Game Library
-4. Start Genshin from SpecialK launcher *(note: it might take a few tries to succesfully inject SpecialK)*
+3. Add Jenshin to Game Library
+4. Start Jenshin from SpecialK launcher *(note: it might take a few tries to succesfully inject SpecialK)*
 5. Press ctrl + shift + backspace to open SpecialK menu
 6. Change sRGB bypass from Passthrough to Strip
 >![enter image description here](https://i.imgur.com/gkqZibH_d.webp?maxwidth=760&fidelity=grand)
