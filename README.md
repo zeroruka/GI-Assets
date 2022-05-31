@@ -1,7 +1,7 @@
 
 [中文](README_CN.md) | English
-# GI Textures
-A collection of Genshin Character Texture files for modding.
+# GI Assets
+A collection of Genshin Character Model & Texture files for modding.
 
 
 ## Guide
