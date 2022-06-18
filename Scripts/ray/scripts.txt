@@ -1,4 +1,4 @@
-//神里涩涩
+//神里涩涩 Ayaka sex
 var obj = GameObject.Find("EntityRoot/AvatarRoot/Avatar_Girl_Sword_Ayaka(Clone)/OffsetDummy/Avatar_Girl_Sword_Ayaka/Body");
 SkinnedMeshRenderer smr = obj.GetComponent<SkinnedMeshRenderer>();
 Mesh mesh = smr.sharedMesh;
@@ -36,7 +36,7 @@ foreach(string index in strPartsIndexList)
 }
 mesh.bindposes = matrix4x4s;
 
-//申鹤涩涩
+//申鹤涩涩 Shenhe sex
 var obj = GameObject.Find("EntityRoot/AvatarRoot/Avatar_Lady_Pole_Shenhe(Clone)/OffsetDummy/Avatar_Lady_Pole_Shenhe/Body");
 SkinnedMeshRenderer smr = obj.GetComponent<SkinnedMeshRenderer>();
 Mesh mesh = smr.sharedMesh;
@@ -74,7 +74,7 @@ foreach(string index in strPartsIndexList)
 }
 mesh.bindposes = matrix4x4s;
 
-//刻晴皮肤涩涩
+//刻晴皮肤涩涩 Keqing skin sex
 var obj = GameObject.Find("EntityRoot/AvatarRoot/Avatar_Girl_Sword_KeqingCostumeFeather(Clone)/OffsetDummy/Avatar_Girl_Sword_KeqingCostumeFeather/Body");
 SkinnedMeshRenderer smr = obj.GetComponent<SkinnedMeshRenderer>();
 Mesh mesh = smr.sharedMesh;
@@ -112,7 +112,7 @@ foreach(string index in strPartsIndexList)
 }
 mesh.bindposes = matrix4x4s;
 
-//芭芭拉涩涩（半去裙子）
+//芭芭拉涩涩（半去裙子）Barbara sex version1
 var obj = GameObject.Find("EntityRoot/AvatarRoot/Avatar_Girl_Catalyst_Barbara(Clone)/OffsetDummy/Avatar_Girl_Catalyst_Barbara/Body");
 SkinnedMeshRenderer smr = obj.GetComponent<SkinnedMeshRenderer>();
 Mesh mesh = smr.sharedMesh;
@@ -150,7 +150,7 @@ foreach(string index in strPartsIndexList)
 }
 mesh.bindposes = matrix4x4s;
 
-//甘雨涩涩
+//甘雨涩涩 Ganyu sex
 var obj = GameObject.Find("EntityRoot/AvatarRoot/Avatar_Girl_Bow_Ganyu(Clone)/OffsetDummy/Avatar_Girl_Bow_Ganyu/Body");
 SkinnedMeshRenderer smr = obj.GetComponent<SkinnedMeshRenderer>();
 Mesh mesh = smr.sharedMesh;
@@ -188,7 +188,7 @@ foreach(string index in strPartsIndexList)
 }
 mesh.bindposes = matrix4x4s;
 
-//芭芭拉皮肤涩涩
+//芭芭拉皮肤涩涩 Barbara skin sex
 var obj = GameObject.Find("EntityRoot/AvatarRoot/Avatar_Girl_Catalyst_BarbaraCostumeSummertime(Clone)/OffsetDummy/Avatar_Girl_Catalyst_BarbaraCostumeSummertime/Body");
 SkinnedMeshRenderer smr = obj.GetComponent<SkinnedMeshRenderer>();
 Mesh mesh = smr.sharedMesh;
@@ -226,7 +226,7 @@ foreach(string index in strPartsIndexList)
 }
 mesh.bindposes = matrix4x4s;
 
-//罗莎莉亚涩涩
+//罗莎莉亚涩涩 Rosaria sex
 var obj = GameObject.Find("EntityRoot/AvatarRoot/Avatar_Lady_Pole_Rosaria(Clone)/OffsetDummy/Avatar_Lady_Pole_Rosaria/Body");
 SkinnedMeshRenderer smr = obj.GetComponent<SkinnedMeshRenderer>();
 Mesh mesh = smr.sharedMesh;
@@ -264,7 +264,7 @@ foreach(string index in strPartsIndexList)
 }
 mesh.bindposes = matrix4x4s;
 
-//宵宫涩涩
+//宵宫涩涩 Yoimiya sex
 var obj = GameObject.Find("EntityRoot/AvatarRoot/Avatar_Girl_Bow_Yoimiya(Clone)/OffsetDummy/Avatar_Girl_Bow_Yoimiya/Body");
 SkinnedMeshRenderer smr = obj.GetComponent<SkinnedMeshRenderer>();
 Mesh mesh = smr.sharedMesh;
@@ -302,7 +302,7 @@ foreach(string index in strPartsIndexList)
 }
 mesh.bindposes = matrix4x4s;
 
-//雷神涩涩
+//雷神涩涩 Shogun sex
 var obj = GameObject.Find("EntityRoot/AvatarRoot/Avatar_Lady_Pole_Shougun(Clone)/OffsetDummy/Avatar_Lady_Pole_Shougun/Body");
 SkinnedMeshRenderer smr = obj.GetComponent<SkinnedMeshRenderer>();
 Mesh mesh = smr.sharedMesh;
@@ -340,7 +340,7 @@ foreach(string index in strPartsIndexList)
 }
 mesh.bindposes = matrix4x4s;
 
-//刻晴涩涩
+//刻晴涩涩 Keqing sex
 var obj = GameObject.Find("EntityRoot/AvatarRoot/Avatar_Girl_Sword_Keqing(Clone)/OffsetDummy/Avatar_Girl_Sword_Keqing/Body");
 SkinnedMeshRenderer smr = obj.GetComponent<SkinnedMeshRenderer>();
 Mesh mesh = smr.sharedMesh;
@@ -378,7 +378,7 @@ foreach(string index in strPartsIndexList)
 }
 mesh.bindposes = matrix4x4s;
 
-//九条涩涩
+//九条涩涩 Sara sex
 var obj = GameObject.Find("EntityRoot/AvatarRoot/Avatar_Lady_Bow_Sara(Clone)/OffsetDummy/Avatar_Lady_Bow_Sara/Body");
 SkinnedMeshRenderer smr = obj.GetComponent<SkinnedMeshRenderer>();
 Mesh mesh = smr.sharedMesh;
@@ -416,7 +416,7 @@ foreach(string index in strPartsIndexList)
 }
 mesh.bindposes = matrix4x4s;
 
-//八重涩涩
+//八重涩涩 Yae sex
 var obj = GameObject.Find("EntityRoot/AvatarRoot/Avatar_Lady_Catalyst_Yae(Clone)/OffsetDummy/Avatar_Lady_Catalyst_Yae/Body");
 SkinnedMeshRenderer smr = obj.GetComponent<SkinnedMeshRenderer>();
 Mesh mesh = smr.sharedMesh;
@@ -454,7 +454,7 @@ foreach(string index in strPartsIndexList)
 }
 mesh.bindposes = matrix4x4s;
 
-//凝光涩涩
+//凝光涩涩 Ningguang sex
 var obj = GameObject.Find("EntityRoot/AvatarRoot/Avatar_Lady_Catalyst_Ningguang(Clone)/OffsetDummy/Avatar_Lady_Catalyst_Ningguang/Body");
 SkinnedMeshRenderer smr = obj.GetComponent<SkinnedMeshRenderer>();
 Mesh mesh = smr.sharedMesh;
@@ -492,7 +492,7 @@ foreach(string index in strPartsIndexList)
 }
 mesh.bindposes = matrix4x4s;
 
-//凝光皮肤涩涩
+//凝光皮肤涩涩 Ningguang skin sex
 var obj = GameObject.Find("EntityRoot/AvatarRoot/Avatar_Lady_Catalyst_NingguangCostumeFloral(Clone)/OffsetDummy/Avatar_Lady_Catalyst_NingguangCostumeFloral/Body");
 SkinnedMeshRenderer smr = obj.GetComponent<SkinnedMeshRenderer>();
 Mesh mesh = smr.sharedMesh;
@@ -530,7 +530,7 @@ foreach(string index in strPartsIndexList)
 }
 mesh.bindposes = matrix4x4s;
 
-//心海涩涩
+//心海涩涩 Kokomi sex
 var obj = GameObject.Find("EntityRoot/AvatarRoot/Avatar_Girl_Catalyst_Kokomi(Clone)/OffsetDummy/Avatar_Girl_Catalyst_Kokomi/Body");
 SkinnedMeshRenderer smr = obj.GetComponent<SkinnedMeshRenderer>();
 Mesh mesh = smr.sharedMesh;
@@ -568,7 +568,7 @@ foreach(string index in strPartsIndexList)
 }
 mesh.bindposes = matrix4x4s;
 
-//丽莎涩涩
+//丽莎涩涩 Lisa sex
 var obj = GameObject.Find("EntityRoot/AvatarRoot/Avatar_Lady_Catalyst_Lisa(Clone)/OffsetDummy/Avatar_Lady_Catalyst_Lisa/Body");
 SkinnedMeshRenderer smr = obj.GetComponent<SkinnedMeshRenderer>();
 Mesh mesh = smr.sharedMesh;
@@ -606,7 +606,7 @@ foreach(string index in strPartsIndexList)
 }
 mesh.bindposes = matrix4x4s;
 
-//丽莎去帽
+//丽莎去帽 Lisa cap
 var obj = GameObject.Find("EntityRoot/AvatarRoot/Avatar_Lady_Catalyst_Lisa(Clone)/OffsetDummy/Avatar_Lady_Catalyst_Lisa/Body");
 SkinnedMeshRenderer smr = obj.GetComponent<SkinnedMeshRenderer>();
 Mesh mesh = smr.sharedMesh;
@@ -644,7 +644,7 @@ foreach(string index in strPartsIndexList)
 }
 mesh.bindposes = matrix4x4s;
 
-//北斗涩涩
+//北斗涩涩 Beidou sex
 var obj = GameObject.Find("EntityRoot/AvatarRoot/Avatar_Lady_Claymore_Beidou(Clone)/OffsetDummy/Avatar_Lady_Claymore_Beidou/Body");
 SkinnedMeshRenderer smr = obj.GetComponent<SkinnedMeshRenderer>();
 Mesh mesh = smr.sharedMesh;
@@ -682,7 +682,7 @@ foreach(string index in strPartsIndexList)
 }
 mesh.bindposes = matrix4x4s;
 
-//菲谢尔涩涩
+//菲谢尔涩涩 Fischl sex
 var obj = GameObject.Find("EntityRoot/AvatarRoot/Avatar_Girl_Bow_Fischl(Clone)/OffsetDummy/Avatar_Girl_Bow_Fischl/Body");
 SkinnedMeshRenderer smr = obj.GetComponent<SkinnedMeshRenderer>();
 Mesh mesh = smr.sharedMesh;
@@ -720,7 +720,7 @@ foreach(string index in strPartsIndexList)
 }
 mesh.bindposes = matrix4x4s;
 
-//辛炎涩涩
+//辛炎涩涩 Xinyan sex
 var obj = GameObject.Find("EntityRoot/AvatarRoot/Avatar_Girl_Claymore_Xinyan(Clone)/OffsetDummy/Avatar_Girl_Claymore_Xinyan/Body");
 SkinnedMeshRenderer smr = obj.GetComponent<SkinnedMeshRenderer>();
 Mesh mesh = smr.sharedMesh;
@@ -758,7 +758,7 @@ foreach(string index in strPartsIndexList)
 }
 mesh.bindposes = matrix4x4s;
 
-//烟绯涩涩
+//烟绯涩涩 Yanfei sex
 var obj = GameObject.Find("EntityRoot/AvatarRoot/Avatar_Girl_Catalyst_Feiyan(Clone)/OffsetDummy/Avatar_Girl_Catalyst_Feiyan/Body");
 SkinnedMeshRenderer smr = obj.GetComponent<SkinnedMeshRenderer>();
 Mesh mesh = smr.sharedMesh;
@@ -796,7 +796,7 @@ foreach(string index in strPartsIndexList)
 }
 mesh.bindposes = matrix4x4s;
 
-//香菱涩涩
+//香菱涩涩 Xiangling sex
 var obj = GameObject.Find("EntityRoot/AvatarRoot/Avatar_Girl_Pole_Xiangling(Clone)/OffsetDummy/Avatar_Girl_Pole_Xiangling/Body");
 SkinnedMeshRenderer smr = obj.GetComponent<SkinnedMeshRenderer>();
 Mesh mesh = smr.sharedMesh;
@@ -834,7 +834,7 @@ foreach(string index in strPartsIndexList)
 }
 mesh.bindposes = matrix4x4s;
 
-//芭芭拉涩涩（全涩）
+//芭芭拉涩涩（全涩）Barbara sex version2
 var obj = GameObject.Find("EntityRoot/AvatarRoot/Avatar_Girl_Catalyst_Barbara(Clone)/OffsetDummy/Avatar_Girl_Catalyst_Barbara/Body");
 SkinnedMeshRenderer smr = obj.GetComponent<SkinnedMeshRenderer>();
 Mesh mesh = smr.sharedMesh;
@@ -872,7 +872,7 @@ foreach(string index in strPartsIndexList)
 }
 mesh.bindposes = matrix4x4s;
 
-//云锦涩涩
+//云锦涩涩 Yun jin sex
 var obj = GameObject.Find("EntityRoot/AvatarRoot/Avatar_Girl_Pole_Yunjin(Clone)/OffsetDummy/Avatar_Girl_Pole_Yunjin/Body");
 SkinnedMeshRenderer smr = obj.GetComponent<SkinnedMeshRenderer>();
 Mesh mesh = smr.sharedMesh;
@@ -910,7 +910,7 @@ foreach(string index in strPartsIndexList)
 }
 mesh.bindposes = matrix4x4s;
 
-//砂糖涩涩
+//砂糖涩涩 Sucrose
 var obj = GameObject.Find("EntityRoot/AvatarRoot/Avatar_Girl_Catalyst_Sucrose(Clone)/OffsetDummy/Avatar_Girl_Catalyst_Sucrose/Body");
 SkinnedMeshRenderer smr = obj.GetComponent<SkinnedMeshRenderer>();
 Mesh mesh = smr.sharedMesh;
@@ -948,7 +948,7 @@ foreach(string index in strPartsIndexList)
 }
 mesh.bindposes = matrix4x4s;
 
-//诺埃尔涩涩
+//诺埃尔涩涩 Noelle sex
 var obj = GameObject.Find("EntityRoot/AvatarRoot/Avatar_Girl_Claymore_Noel(Clone)/OffsetDummy/Avatar_Girl_Claymore_Noel/Body");
 SkinnedMeshRenderer smr = obj.GetComponent<SkinnedMeshRenderer>();
 Mesh mesh = smr.sharedMesh;
@@ -986,7 +986,7 @@ foreach(string index in strPartsIndexList)
 }
 mesh.bindposes = matrix4x4s;
 
-//旅行者涩涩
+//旅行者涩涩 Lumine sex
 var obj = GameObject.Find("EntityRoot/AvatarRoot/Avatar_Girl_Sword_PlayerGirl(Clone)/OffsetDummy/Avatar_Girl_Sword_PlayerGirl/Body");
 SkinnedMeshRenderer smr = obj.GetComponent<SkinnedMeshRenderer>();
 Mesh mesh = smr.sharedMesh;
