@@ -15,8 +15,8 @@ We love your input! We want to make contributing to this project as easy and tra
 - Must include both diffuse and lightmap
 
 ## Notes
-- Both NSFW and non-NSFW skins are welcome
-- non-NSFW skins can include client ui modding too
+- Both NSFW and SFW skins are welcome
+- SFW skins can include client ui modding too
 
 ## License
 By contributing, you agree that your contributions will be licensed under its GNU General Public License v3.0.
