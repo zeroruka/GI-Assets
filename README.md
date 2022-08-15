@@ -10,3 +10,5 @@ A collection of Anime Game Character Model & Texture files for modding.
 
 ### SpecialK Mods have been moved to [GI-SKMods](https://github.com/zeroruka/GI-SKMods)
 For guide on how to use SpecialK, look at the wiki in GI-SKMods
+
+### If you do not wish to clone the entire repo, use [DownGit](https://minhaskamal.github.io/DownGit/#/home) or [DownGit CN Mirror Link](https://shenmo7192.gitee.io/downgit/#/home) to clone a specific folder.
