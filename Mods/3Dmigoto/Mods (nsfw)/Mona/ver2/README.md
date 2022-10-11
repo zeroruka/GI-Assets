@@ -1,1 +1,0 @@
-# Use Pact of Stars and Moon mona costume
