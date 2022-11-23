@@ -1,0 +1,71 @@
+Aether
+Albedo
+Alhatham
+Aloy
+Amber
+Arataki Itto
+Asmoday
+Baizhu
+Barbara
+Beidou
+Bennett
+Candace
+Childe
+Chongyun
+Collei
+Cyno
+Dainsleif
+Dehya
+Diluc
+Diona
+Dori
+Dvalin
+Eula
+Fischl
+Ganyu
+Gorou
+Hu Tao
+IlDotorre
+Jean
+Kaedehara Kazuha
+Kaeya
+Kamisato Ayaka
+Kamisato Ayato
+Kaveh
+Keqing
+Klee
+Kujou Sara
+Kuki Shinobu
+La Signora
+Lisa
+Lumine
+Mona
+Naganohara Yoimiya
+Nahida
+Nilou
+Ningguang
+Noelle
+Paimon
+Qiqi
+Raiden Shogun
+Razor
+Rosaria
+Sangonomiya Kokomi
+Sayu
+Scaramouche
+Shenhe
+Shikanoin Heizou
+Sucrose
+Thoma
+Tighnari
+Venti
+Xiangling
+Xiao
+Xingqiu
+Xinyan
+Yae Miko
+Yanfei
+Yelan
+Yun Jin
+Zhongli
+list.txt
