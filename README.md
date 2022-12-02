@@ -8,6 +8,7 @@ This repo contains the following models:
 - Character
 - NPC
 - Monster
-- Skill
+- SkillObj
+- Weapon
 
 ### Mods have been moved to [GI-Mods](https://github.com/zeroruka/GI-Mods)
