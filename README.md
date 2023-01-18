@@ -11,4 +11,4 @@ This repo contains the following models:
 - SkillObj
 - Weapon
 
-### Mods have been moved to [GI-Mods](https://github.com/zeroruka/GI-Mods)
+### Mods have been moved [here](https://gitlab.com/zeroruka/AGM)
