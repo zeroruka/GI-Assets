@@ -2,7 +2,7 @@
 # GI Assets
 A collection of Anime Game Character Model & Texture files.
 
-Current version: 3.3
+Current version: 3.4
 
 This repo contains the following models:
 - Character
