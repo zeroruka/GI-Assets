@@ -1,0 +1,161 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": 8721262973060810334,
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_DissolveTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": 5541663872515287767,
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": 6657600974416664460,
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_NoiseTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_NoiseTex02": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_PatternTexInUV2": {
+        "m_Texture": {
+          "m_FileID": 4,
+          "m_PathID": 2754041769094140598,
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "SkipMotionVelocity": 0.0,
+      "_Alpha": 1.0,
+      "_BlendOP": 0.0,
+      "_Cull": 2.0,
+      "_DissolveValue": 0.0,
+      "_DstBlendMode": 10.0,
+      "_EdgeWidth": 0.121,
+      "_FresnelPower": 1.0,
+      "_FresnelScale": 1.06,
+      "_MHYZBias": 0.0,
+      "_MotionVectorsAlphaCutoff": 0.1,
+      "_NoisOffset": 0.0,
+      "_Noise02Multiplier": 1.6,
+      "_NoiseMultiplier": 1.0,
+      "_NoiseTex02_U_Speed": 0.0,
+      "_NoiseTex02_V_Speed": 0.0,
+      "_NoiseTx_U_Speed": -0.16,
+      "_NoiseTx_V_Speed": 0.0,
+      "_Opacity": 1.0,
+      "_PolygonOffsetFactor": 0.0,
+      "_PolygonOffsetUnit": 0.0,
+      "_SkipTaa": 1.0,
+      "_SrcBlendMode": 5.0,
+      "_UseDissolve": 1.0,
+      "_UseHardEdge": 1.0,
+      "_ZwriteToggle": 1.0
+    },
+    "m_Colors": {
+      "_DayColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_DissolveChannelSwitch": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_EyeColor": {
+        "r": 1.0160035,
+        "g": 1.0160035,
+        "b": 1.0160035,
+        "a": 0.0
+      },
+      "_FresnelColor": {
+        "r": 1.9226191,
+        "g": 1.9919116,
+        "b": 1.2742376,
+        "a": 1.0
+      },
+      "_HardEdgeColor": {
+        "r": 1.8909621,
+        "g": 2.9779413,
+        "b": 1.6860403,
+        "a": 0.0
+      },
+      "_MainColor": {
+        "r": 0.3768763,
+        "g": 1.0,
+        "b": 0.29411763,
+        "a": 0.0
+      },
+      "_PatternColor": {
+        "r": 0.8138969,
+        "g": 1.1411338,
+        "b": 1.1411338,
+        "a": 0.0
+      }
+    }
+  },
+  "m_StringTagMap": {},
+  "m_Name": "SkillObj_Alhatham_GhostKhukuril_Mat"
+}
