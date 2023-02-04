@@ -10,5 +10,3 @@ This repo contains the following models:
 - Monster
 - SkillObj
 - Weapon
-
-### Mods have been moved [here](https://gitlab.com/zeroruka/AGM)
