@@ -1,0 +1,220 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": 4491145811181728303,
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_DissolveTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": 8761173763051373140,
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 2.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_NoiseTex": {
+        "m_Texture": {
+          "m_FileID": 4,
+          "m_PathID": 923778760248850012,
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 2.0,
+          "Y": 2.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_NormalTex": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": 5181483763592306751,
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 2.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_AlphaScale": 1.0,
+      "_BlendOP": 0.0,
+      "_BumpScale": 1.0,
+      "_ChannelNum": 1.0,
+      "_ColorOffset": 0.0,
+      "_ColorScale": 1.0,
+      "_Cull": 2.0,
+      "_CutOff": 0.0,
+      "_Cutoff": 0.5,
+      "_DepthFade": 1.0,
+      "_DepthThresh": 1.0,
+      "_DepthThreshold": 0.0,
+      "_DetailNormalMapScale": 1.0,
+      "_DissolveChannelNum": 3.04,
+      "_DissolveColorToggle": 1.0,
+      "_DissolveNoise": 0.0,
+      "_DissolveOffset": -0.41,
+      "_DissolveScale": 30.0,
+      "_DistortChannelNum": 1.0,
+      "_DistortMask": 0.0,
+      "_DistortOffsetScale": 0.0,
+      "_DistortUSpeed": 0.0,
+      "_DistortVSpeed": 0.0,
+      "_DitherAlpha": 1.0,
+      "_DstBlend": 0.0,
+      "_DstBlendMode": 10.0,
+      "_EffectedByFog": 0.0,
+      "_ElementViewEleID": 0.0,
+      "_EnableAlphaTest": 0.0,
+      "_FadeByFresnelAndDistance": 0.0,
+      "_FadeLength": 0.0,
+      "_FadeOffset": 0.0,
+      "_Float1": -64.13,
+      "_Float2": 1.91,
+      "_FresnelColorHighLightScale": 0.6,
+      "_FresnelColorScale": 20.0,
+      "_FresnelFadeScale": 1.0,
+      "_FresnelPower": 6.0,
+      "_GlossMapScale": 1.0,
+      "_Glossiness": 0.5,
+      "_GlossyReflections": 1.0,
+      "_LerpDebug": 0.0,
+      "_LinearRamp": -0.77,
+      "_MHYZBias": 0.0,
+      "_MainColorScale": 1.0,
+      "_MainTexChannleNum": 1.0,
+      "_MaskChannelNum": 1.0,
+      "_MaskColorPlus": 0.0,
+      "_MaskScale": 1.0,
+      "_MaskUSpeed": 0.0,
+      "_MaskVSpeed": 0.0,
+      "_Metallic": 0.0,
+      "_Mode": 0.0,
+      "_MotionVectorsAlphaCutoff": 0.0,
+      "_NoiseScale": 0.0,
+      "_NormalInnerScale": 4.3,
+      "_NormalScale": 0.62,
+      "_OcclusionStrength": 1.0,
+      "_OffsetThreshold": -0.65,
+      "_Parallax": 0.02,
+      "_PolygonOffsetFactor": 0.0,
+      "_PolygonOffsetUnit": 0.0,
+      "_ReceiveShadow": 0.0,
+      "_RefractStr": -0.95,
+      "_SOFTPARTICLES": 0.0,
+      "_Scale": 0.01,
+      "_SmoothnessTextureChannel": 0.0,
+      "_SpecularHighlights": 1.0,
+      "_SrcBlend": 1.0,
+      "_SrcBlendMode": 5.0,
+      "_Step": 1.03,
+      "_StepThreshold": 0.09,
+      "_StepValue": 0.15,
+      "_SwitchStep": 0.5,
+      "_USpeed": 0.0,
+      "_UVSec": 0.0,
+      "_UsingDitherAlpha": 0.0,
+      "_VSpeed": 0.0,
+      "_VertexAniOffsetThreshold": -0.02,
+      "_ZWrite": 1.0,
+      "_Ztest": 4.0,
+      "_Zwrite": 0.0,
+      "__dirty": 0.0
+    },
+    "m_Colors": {
+      "_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_ColorOffestThreshold": {
+        "r": 0.1,
+        "g": 0.1,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_DisplaceRangeXY": {
+        "r": -0.2,
+        "g": 0.2,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_DissolveEndColor": {
+        "r": 0.55214965,
+        "g": 0.04119806,
+        "b": 0.9338235,
+        "a": 0.791
+      },
+      "_DissolveTexPannerXY": {
+        "r": 0.0,
+        "g": -1.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_EmissionColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_FresnelColor": {
+        "r": 0.34154642,
+        "g": 0.021626275,
+        "b": 0.73529416,
+        "a": 1.0
+      },
+      "_MainColor": {
+        "r": 0.13975653,
+        "g": 0.0,
+        "b": 0.38235292,
+        "a": 1.0
+      },
+      "_MainTexPannerXY": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_NoiseTexPannerXY": {
+        "r": 0.0,
+        "g": -0.5,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_NormalTexPannerXY": {
+        "r": 0.4,
+        "g": -0.9,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_VertexAniRangeXY": {
+        "r": -0.32,
+        "g": 0.1,
+        "b": 0.0,
+        "a": 0.0
+      }
+    }
+  },
+  "m_StringTagMap": {
+    "AllowDistortionVectors": "False"
+  },
+  "m_Name": "Eff_Fire_037_DO_01"
+}

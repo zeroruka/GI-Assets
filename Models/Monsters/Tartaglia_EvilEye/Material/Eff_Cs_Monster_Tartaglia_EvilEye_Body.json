@@ -1,0 +1,170 @@
+{
+  "m_Shader": {
+    "m_FileID": 3,
+    "m_PathID": 7475340127369578012,
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_MainTexture": {
+        "m_Texture": {
+          "m_FileID": 4,
+          "m_PathID": -6621325859730493661,
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MaskTexture": {
+        "m_Texture": {
+          "m_FileID": 1,
+          "m_PathID": 8761173763051373140,
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_NoiseTexture": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": -2846951801954545040,
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_VertexOffsetTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_texcoord": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_AlphaScale": 0.75,
+      "_BlendOP": 0.0,
+      "_Brightness": 24.0,
+      "_BumpScale": 1.0,
+      "_Cull": 2.0,
+      "_Cutoff": 0.5,
+      "_DetailNormalMapScale": 1.0,
+      "_DstBlend": 0.0,
+      "_DstBlendMode": 10.0,
+      "_EffectedByFog": 0.0,
+      "_FresnelAlphaScale": 0.0,
+      "_FresnelColorScale": 0.0,
+      "_FresnelPower": 1.0,
+      "_GlossMapScale": 1.0,
+      "_Glossiness": 0.5,
+      "_GlossyReflections": 1.0,
+      "_LerpToScreenUV": 1.0,
+      "_MHYZBias": -0.01,
+      "_MainBrightness": 2.71,
+      "_MainTexChannel": 0.0,
+      "_MainTexUSpeed": 0.0,
+      "_MainTexVSpeed": -1.0,
+      "_MaskBrightness": 1.47,
+      "_MaskRange": 0.316,
+      "_MaskSoft": 0.17,
+      "_MaskTextureChannel": 0.0,
+      "_MaskTextureUSpeed": 0.0,
+      "_MaskTextureVSpeed": -0.1,
+      "_Metallic": 0.0,
+      "_Mode": 0.0,
+      "_MotionVectorsAlphaCutoff": 0.1,
+      "_NoiseScale": 0.38,
+      "_NoiseTexChannel": 0.0,
+      "_NoiseTexUSpeed": 0.0,
+      "_NoiseTexVSpeed": -0.33,
+      "_OcclusionStrength": 1.0,
+      "_OneMinusFresnel": 0.0,
+      "_Parallax": 0.02,
+      "_PolygonOffsetFactor": 0.0,
+      "_PolygonOffsetUnit": 0.0,
+      "_ScreenPositionTilingX": 5.0,
+      "_ScreenPositionTilingY": 3.0,
+      "_SmoothnessTextureChannel": 0.0,
+      "_SpecularHighlights": 1.0,
+      "_SrcBlend": 1.0,
+      "_SrcBlendMode": 5.0,
+      "_UVSec": 0.0,
+      "_VertexColorOn": 0.0,
+      "_VertexOffsetScale": 0.0,
+      "_VertexOffsetTexChannel": 0.0,
+      "_ZWrite": 1.0,
+      "_Ztest": 4.0,
+      "_Zwrite": 0.0
+    },
+    "m_Colors": {
+      "_BrightnessColor": {
+        "r": 0.49751815,
+        "g": 0.30547145,
+        "b": 0.8308824,
+        "a": 0.0
+      },
+      "_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EmissionColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_WorldPosition": {
+        "r": -6.23,
+        "g": -18.074,
+        "b": -11.07,
+        "a": 0.0
+      }
+    }
+  },
+  "m_StringTagMap": {},
+  "m_Name": "Eff_Cs_Monster_Tartaglia_EvilEye_Body"
+}
