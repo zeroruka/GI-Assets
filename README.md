@@ -10,3 +10,4 @@ This repo contains the following models:
 - Monster
 - SkillObj
 - Weapon
+- Indoor Interior
