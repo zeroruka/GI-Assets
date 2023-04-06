@@ -11,3 +11,5 @@ This repo contains the following models:
 - SkillObj
 - Weapon
 - Indoor Interior
+
+### You may want to use [DownGit](https://minhaskamal.github.io/DownGit/#/home) to download individual files that you need instead of cloning the entire repository
