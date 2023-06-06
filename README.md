@@ -2,7 +2,7 @@
 
 A collection of Anime Game Character Model & Texture files.
 
-Current version: 3.6
+Current version: 3.7
 
 This repo contains the following models:
 
