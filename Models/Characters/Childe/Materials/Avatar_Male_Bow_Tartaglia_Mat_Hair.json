@@ -1,7 +1,8 @@
 {
   "m_Shader": {
-    "m_FileID": 1,
+    "m_FileID": 3,
     "m_PathID": -6868644443425792852,
+    "Name": "miHoYo/Character/Base",
     "IsNull": false
   },
   "m_SavedProperties": {
@@ -10,6 +11,7 @@
         "m_Texture": {
           "m_FileID": 0,
           "m_PathID": 0,
+          "Name": "",
           "IsNull": true
         },
         "m_Scale": {
@@ -25,6 +27,39 @@
         "m_Texture": {
           "m_FileID": 0,
           "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_BumpMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_ClipAlphaTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
           "IsNull": true
         },
         "m_Scale": {
@@ -40,6 +75,7 @@
         "m_Texture": {
           "m_FileID": 0,
           "m_PathID": 0,
+          "Name": "",
           "IsNull": true
         },
         "m_Scale": {
@@ -53,8 +89,9 @@
       },
       "_LightMapTex": {
         "m_Texture": {
-          "m_FileID": 3,
+          "m_FileID": 2,
           "m_PathID": -4947791963800210410,
+          "Name": "Avatar_Male_Bow_Tartaglia_Tex_Hair_Lightmap",
           "IsNull": false
         },
         "m_Scale": {
@@ -70,7 +107,24 @@
         "m_Texture": {
           "m_FileID": 5,
           "m_PathID": -867313356815120306,
+          "Name": "Avatar_Tex_MetalMap",
           "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MTSpecularRamp": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
         },
         "m_Scale": {
           "X": 1.0,
@@ -83,8 +137,9 @@
       },
       "_MainTex": {
         "m_Texture": {
-          "m_FileID": 2,
+          "m_FileID": 1,
           "m_PathID": 9046326713986141783,
+          "Name": "Avatar_Male_Bow_Tartaglia_Tex_Hair_Diffuse",
           "IsNull": false
         },
         "m_Scale": {
@@ -100,6 +155,7 @@
         "m_Texture": {
           "m_FileID": 0,
           "m_PathID": 0,
+          "Name": "",
           "IsNull": true
         },
         "m_Scale": {
@@ -115,6 +171,7 @@
         "m_Texture": {
           "m_FileID": 4,
           "m_PathID": -5839062806435005097,
+          "Name": "Avatar_Male_Bow_Tartaglia_Tex_Hair_Shadow_Ramp",
           "IsNull": false
         },
         "m_Scale": {
@@ -140,10 +197,19 @@
       "_AmbientPointYOffset": 1.036,
       "_AnimBoneOffset": 0.0,
       "_AnimFPS": 15.0,
+      "_BumpScale": 1.0,
       "_CharacterAmbientSensorColorOn": 0.0,
       "_CharacterAmbientSensorForceShadowOn": 0.0,
       "_CharacterAmbientSensorOn": 0.0,
       "_CharacterAmbientSensorShadowOn": 0.0,
+      "_ClipAlphaHighLightScale": 0.0,
+      "_ClipAlphaThreshold": 0.0,
+      "_ClipAlphaUVSet": 0.0,
+      "_ClipBoxHighLightScale": 0.2,
+      "_ClipDissolveDirection": 0.0,
+      "_ClipDissolveHightlightScale": 1.0,
+      "_ClipDissolveValue": 1.0,
+      "_ClipMethod": 0.0,
       "_ClipPlaneWorld": 1.0,
       "_CullMode": 2.0,
       "_DitherAlpha": 1.0,
@@ -165,9 +231,11 @@
       "_LightArea": 0.5,
       "_MTMapBrightness": 3.0,
       "_MTMapTileScale": 1.0,
+      "_MTSharpLayerOffset": 1.0,
       "_MTShininess": 90.0,
       "_MTSpecularAttenInShadow": 0.2,
       "_MTSpecularScale": 15.0,
+      "_MTUseSpecularRamp": 0.0,
       "_MainTexAlphaCutoff": 0.5,
       "_MainTexAlphaUse": 0.0,
       "_MainTexColoring": 0.0,
@@ -209,9 +277,13 @@
       "_TessellationCheckInflectionOn": 1.0,
       "_TessellationOn": 0.0,
       "_TextureBiasWhenDithering": -1.0,
+      "_TextureLineSmoothness": 0.1,
+      "_TextureLineThickness": 0.6,
       "_UseAmbientPoint": 0.0,
       "_UseBackFaceUV2": 0.0,
+      "_UseBumpMap": 0.0,
       "_UseClipPlane": 0.0,
+      "_UseClipping": 0.0,
       "_UseCoolShadowColorOrTex": 1.0,
       "_UseFaceMapNew": 0.0,
       "_UseLightMapColorAO": 1.0,
@@ -219,6 +291,7 @@
       "_UseMaterial3": 0.0,
       "_UseMaterial4": 0.0,
       "_UseMaterial5": 0.0,
+      "_UseMaterialMasksTex": 0.0,
       "_UseShadowRamp": 1.0,
       "_UseShadowTransition": 0.0,
       "_UseToonLightMap": 1.0,
@@ -230,6 +303,24 @@
       "_UtilityDisplay2": 0.0
     },
     "m_Colors": {
+      "_ClipBoxPositionOffset": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_ClipBoxScale": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 1.0
+      },
+      "_ClipHighLightColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
       "_ClipPlane": {
         "r": 0.0,
         "g": 0.0,
@@ -316,7 +407,7 @@
       },
       "_FirstShadowMultColor": {
         "r": 0.8088235,
-        "g": 0.653785348,
+        "g": 0.65378535,
         "b": 0.487673,
         "a": 1.0
       },
@@ -352,7 +443,7 @@
       },
       "_MTMapDarkColor": {
         "r": 0.5294118,
-        "g": 0.352010518,
+        "g": 0.35201052,
         "b": 0.3114187,
         "a": 0.0
       },
@@ -364,9 +455,15 @@
       },
       "_MTShadowMultiColor": {
         "r": 0.7914569,
-        "g": 0.787197232,
+        "g": 0.78719723,
         "b": 0.8235294,
         "a": 0.8
+      },
+      "_MTSharpLayerColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
       },
       "_MTSpecularColor": {
         "r": 1.0,
@@ -381,9 +478,9 @@
         "a": 1.0
       },
       "_OutlineColor": {
-        "r": 0.426470518,
-        "g": 0.215570852,
-        "b": 0.137975737,
+        "r": 0.42647052,
+        "g": 0.21557085,
+        "b": 0.13797574,
         "a": 1.0
       },
       "_OutlineColor2": {
@@ -431,13 +528,23 @@
       "_SpecularColor": {
         "r": 1.0,
         "g": 0.9350913,
-        "b": 0.852941155,
+        "b": 0.85294116,
+        "a": 1.0
+      },
+      "_TextureLineDistanceControl": {
+        "r": 0.1,
+        "g": 0.6,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_TextureLineMultiplier": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
         "a": 1.0
       }
     }
   },
-  "m_StringTagMap": {
-    "Distortion": "None"
-  },
-  "m_Name": "Avatar_Male_Bow_Tartaglia_Mat_Hair"
+  "m_Name": "Avatar_Male_Bow_Tartaglia_Mat_Hair",
+  "Name": "Avatar_Male_Bow_Tartaglia_Mat_Hair"
 }
