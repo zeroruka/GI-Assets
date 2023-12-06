@@ -1,0 +1,369 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": -1634633083005179410,
+    "Name": "miHoYo/Particles/UVmove_New",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": [
+      {
+        "Key": "_AlphaCurve",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 0,
+            "m_PathID": 0,
+            "Name": "",
+            "IsNull": true
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_BaseTex",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 2,
+            "m_PathID": -7727130709562877592,
+            "Name": "Eff_Turbulence_13",
+            "IsNull": false
+          },
+          "m_Scale": {
+            "X": 0.5,
+            "Y": 1.44
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_MaskTex",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 3,
+            "m_PathID": 7491288281244453526,
+            "Name": "Eff_Mask_35",
+            "IsNull": false
+          },
+          "m_Scale": {
+            "X": 0.9,
+            "Y": 0.9
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.04
+          }
+        }
+      },
+      {
+        "Key": "_NoiseTex",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 4,
+            "m_PathID": -9151591525885060806,
+            "Name": "Eff_Noise_13",
+            "IsNull": false
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      }
+    ],
+    "m_Ints": null,
+    "m_Floats": [
+      {
+        "Key": "Emission_Type",
+        "Value": 0.0
+      },
+      {
+        "Key": "_Alpha",
+        "Value": 1.0
+      },
+      {
+        "Key": "_AlphaBrightness",
+        "Value": 20.0
+      },
+      {
+        "Key": "_AlphaFadeByDistanceToggle",
+        "Value": 0.0
+      },
+      {
+        "Key": "_AlphaFadeDistance",
+        "Value": 1.0
+      },
+      {
+        "Key": "_AlphaFadeDistanceInvertToggle",
+        "Value": 0.0
+      },
+      {
+        "Key": "_AlphaFadeDistanceTwoWay",
+        "Value": 1000.0
+      },
+      {
+        "Key": "_AlphaFadeDistanceTwoWayToggle",
+        "Value": 0.0
+      },
+      {
+        "Key": "_AlphaFadeOffset",
+        "Value": 0.0
+      },
+      {
+        "Key": "_AlphaFadeOffsetTwoWay",
+        "Value": 0.0
+      },
+      {
+        "Key": "_AlphaSoftedgePower",
+        "Value": 1.0
+      },
+      {
+        "Key": "_AlphaSoftedgeScale",
+        "Value": 1.0
+      },
+      {
+        "Key": "_AlphaSoftedgeToggle",
+        "Value": 0.0
+      },
+      {
+        "Key": "_AlphaSoftedgeTwoSideToggle",
+        "Value": 0.0
+      },
+      {
+        "Key": "_AutoExposure",
+        "Value": 0.0
+      },
+      {
+        "Key": "_BaseTexAlphaBrightness",
+        "Value": 1.0
+      },
+      {
+        "Key": "_BaseTexAlphaChannelSwitch",
+        "Value": 0.0
+      },
+      {
+        "Key": "_BaseTexColorChannelSwitch",
+        "Value": 2.0
+      },
+      {
+        "Key": "_BaseTexURandomToggle",
+        "Value": 1.0
+      },
+      {
+        "Key": "_BaseTexVRandomToggle",
+        "Value": 0.0
+      },
+      {
+        "Key": "_BaseTex_Uspeed",
+        "Value": -0.57
+      },
+      {
+        "Key": "_BaseTex_Vspeed",
+        "Value": -1.05
+      },
+      {
+        "Key": "_BlendOP",
+        "Value": 0.0
+      },
+      {
+        "Key": "_CameraFade",
+        "Value": 0.0
+      },
+      {
+        "Key": "_ColorBrightness",
+        "Value": 15.0
+      },
+      {
+        "Key": "_Cull",
+        "Value": 0.0
+      },
+      {
+        "Key": "_DepthFade",
+        "Value": 1.0
+      },
+      {
+        "Key": "_DepthThresh",
+        "Value": 1.0
+      },
+      {
+        "Key": "_DstBlendMode",
+        "Value": 1.0
+      },
+      {
+        "Key": "_EffectUberTrans",
+        "Value": 0.0
+      },
+      {
+        "Key": "_EffectedByFog",
+        "Value": 1.0
+      },
+      {
+        "Key": "_EnableCorrectMV",
+        "Value": 0.0
+      },
+      {
+        "Key": "_MHYZBias",
+        "Value": 0.0
+      },
+      {
+        "Key": "_MaskTexBlendModeToggle",
+        "Value": 0.0
+      },
+      {
+        "Key": "_MaskTexBrightness",
+        "Value": 0.2
+      },
+      {
+        "Key": "_MaskTexChannelSwitch",
+        "Value": 0.0
+      },
+      {
+        "Key": "_MaskTexToggle",
+        "Value": 1.0
+      },
+      {
+        "Key": "_MaskTex_Uspeed",
+        "Value": 0.0
+      },
+      {
+        "Key": "_MaskTex_Vspeed",
+        "Value": 0.0
+      },
+      {
+        "Key": "_MotionVectorsAlphaCutoff",
+        "Value": 0.1
+      },
+      {
+        "Key": "_NoiseIntensityOnMask",
+        "Value": 0.0
+      },
+      {
+        "Key": "_NoiseTexChannelSwitch",
+        "Value": 0.0
+      },
+      {
+        "Key": "_NoiseTexToggle",
+        "Value": 1.0
+      },
+      {
+        "Key": "_NoiseTexUVRandomToggle",
+        "Value": 0.0
+      },
+      {
+        "Key": "_NoiseTex_Uspeed",
+        "Value": 1.0
+      },
+      {
+        "Key": "_NoiseTex_Vspeed",
+        "Value": 1.0
+      },
+      {
+        "Key": "_Noise_Brightness",
+        "Value": -0.05
+      },
+      {
+        "Key": "_Noise_Offset",
+        "Value": 1.0
+      },
+      {
+        "Key": "_PolygonOffsetFactor",
+        "Value": 0.0
+      },
+      {
+        "Key": "_PolygonOffsetUnit",
+        "Value": 0.0
+      },
+      {
+        "Key": "_SOFTPARTICLES",
+        "Value": 0.0
+      },
+      {
+        "Key": "_SrcBlendMode",
+        "Value": 5.0
+      },
+      {
+        "Key": "_UseParticleInstancing",
+        "Value": 0.0
+      },
+      {
+        "Key": "_Ztest",
+        "Value": 4.0
+      },
+      {
+        "Key": "_Zwrite",
+        "Value": 0.0
+      }
+    ],
+    "m_Colors": [
+      {
+        "Key": "_DayColor",
+        "Value": {
+          "r": 0.28979236,
+          "g": 0.3809265,
+          "b": 0.9852941,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_MainColor",
+        "Value": {
+          "r": 0.6834991,
+          "g": 0.9485294,
+          "b": 0.8827288,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_MeshParticleColorArray",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_ParticleTexCoord0Array",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_ParticleTexCoord1Array",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_ParticleUvScale",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      }
+    ]
+  },
+  "m_Name": "Eff_Aura_235_UNM_T_A_00",
+  "Name": "Eff_Aura_235_UNM_T_A_00"
+}

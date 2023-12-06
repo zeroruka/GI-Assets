@@ -1,0 +1,1232 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": -500993640283670705,
+    "Name": "miHoYo/CG/Cg_Asmoday_HandEffect",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": [
+      {
+        "Key": "_MainTex",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 2,
+            "m_PathID": 9138282558311769233,
+            "Name": "Monster_Asmoday_Hand_Tex_Eff",
+            "IsNull": false
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_Mask",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 3,
+            "m_PathID": -8136013800221566466,
+            "Name": "Monster_Asmoday_Hand_Mask_Tex_Eff",
+            "IsNull": false
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      }
+    ],
+    "m_Ints": null,
+    "m_Floats": [
+      {
+        "Key": "_ASEHeader",
+        "Value": 0.0
+      },
+      {
+        "Key": "_AlphaBrightness",
+        "Value": 1.0
+      },
+      {
+        "Key": "_AlphaFadeByDistanceToggle",
+        "Value": 0.0
+      },
+      {
+        "Key": "_AlphaFadeDistance",
+        "Value": 2.0
+      },
+      {
+        "Key": "_AlphaFadeDistanceInvertToggle",
+        "Value": 0.0
+      },
+      {
+        "Key": "_AlphaFadeOffset",
+        "Value": 0.0
+      },
+      {
+        "Key": "_AlphaSoftedgePower",
+        "Value": 1.0
+      },
+      {
+        "Key": "_AlphaSoftedgeScale",
+        "Value": 1.0
+      },
+      {
+        "Key": "_AlphaSoftedgeToggle",
+        "Value": 0.0
+      },
+      {
+        "Key": "_AmbientPointColorDensity",
+        "Value": 0.5
+      },
+      {
+        "Key": "_AmbientPointFlatness",
+        "Value": 1.0
+      },
+      {
+        "Key": "_AmbientPointRange",
+        "Value": 0.85
+      },
+      {
+        "Key": "_AmbientPointSoftness",
+        "Value": 0.3
+      },
+      {
+        "Key": "_AmbientPointStrength",
+        "Value": 0.1
+      },
+      {
+        "Key": "_AmbientPointUtility",
+        "Value": 0.0
+      },
+      {
+        "Key": "_AmbientPointYOffset",
+        "Value": 0.37
+      },
+      {
+        "Key": "_BaseTexAlphaBrightness",
+        "Value": 1.0
+      },
+      {
+        "Key": "_BaseTexAlphaChannelSwitch",
+        "Value": 0.0
+      },
+      {
+        "Key": "_BaseTexColorChannelSwitch",
+        "Value": 0.0
+      },
+      {
+        "Key": "_BaseTexURandomToggle",
+        "Value": 0.0
+      },
+      {
+        "Key": "_BaseTexVRandomToggle",
+        "Value": 0.0
+      },
+      {
+        "Key": "_BaseTex_Uspeed",
+        "Value": -0.2
+      },
+      {
+        "Key": "_BaseTex_Vspeed",
+        "Value": 0.0
+      },
+      {
+        "Key": "_BlendOP",
+        "Value": 0.0
+      },
+      {
+        "Key": "_BumpScale",
+        "Value": 1.0
+      },
+      {
+        "Key": "_CharacterAmbientSensorColorOn",
+        "Value": 0.0
+      },
+      {
+        "Key": "_CharacterAmbientSensorOn",
+        "Value": 0.0
+      },
+      {
+        "Key": "_CharacterAmbientSensorShadowOn",
+        "Value": 0.0
+      },
+      {
+        "Key": "_ClipPlaneWorld",
+        "Value": 1.0
+      },
+      {
+        "Key": "_ColorBrightness",
+        "Value": 1.0
+      },
+      {
+        "Key": "_Cull",
+        "Value": 2.0
+      },
+      {
+        "Key": "_CullMode",
+        "Value": 0.0
+      },
+      {
+        "Key": "_Cutoff",
+        "Value": 0.5
+      },
+      {
+        "Key": "_DepthFade",
+        "Value": 1.0
+      },
+      {
+        "Key": "_DepthThresh",
+        "Value": 1.0
+      },
+      {
+        "Key": "_DetailNormalMapScale",
+        "Value": 1.0
+      },
+      {
+        "Key": "_DitherAlpha",
+        "Value": 1.0
+      },
+      {
+        "Key": "_DownMaskRange",
+        "Value": 0.0
+      },
+      {
+        "Key": "_DrawBackFace",
+        "Value": 0.0
+      },
+      {
+        "Key": "_DstBlend",
+        "Value": 0.0
+      },
+      {
+        "Key": "_DstBlendMode",
+        "Value": 10.0
+      },
+      {
+        "Key": "_EffectedByFog",
+        "Value": 0.0
+      },
+      {
+        "Key": "_ElementViewEleID",
+        "Value": 0.0
+      },
+      {
+        "Key": "_EmissionScaler",
+        "Value": 1.5
+      },
+      {
+        "Key": "_EmissionStrengthLerp",
+        "Value": 0.0
+      },
+      {
+        "Key": "_FaceBlushStrength",
+        "Value": 0.0
+      },
+      {
+        "Key": "_FaceMapRotateOffset",
+        "Value": 0.0
+      },
+      {
+        "Key": "_FaceMapSoftness",
+        "Value": 1E-06
+      },
+      {
+        "Key": "_Float1",
+        "Value": 0.572
+      },
+      {
+        "Key": "_Float2",
+        "Value": 0.0
+      },
+      {
+        "Key": "_Float3",
+        "Value": -0.3
+      },
+      {
+        "Key": "_Float4",
+        "Value": 0.0
+      },
+      {
+        "Key": "_Float5",
+        "Value": 0.0
+      },
+      {
+        "Key": "_Float6",
+        "Value": 0.0
+      },
+      {
+        "Key": "_Float7",
+        "Value": 0.0
+      },
+      {
+        "Key": "_Float8",
+        "Value": 0.0
+      },
+      {
+        "Key": "_FresnelPower",
+        "Value": 5.23
+      },
+      {
+        "Key": "_FresnelScale",
+        "Value": -0.19
+      },
+      {
+        "Key": "_GlossMapScale",
+        "Value": 1.0
+      },
+      {
+        "Key": "_Glossiness",
+        "Value": 0.5
+      },
+      {
+        "Key": "_GlossyReflections",
+        "Value": 1.0
+      },
+      {
+        "Key": "_GradientPower",
+        "Value": 2.98
+      },
+      {
+        "Key": "_GradientScale",
+        "Value": 1000.0
+      },
+      {
+        "Key": "_HitColorFresnelPower",
+        "Value": 1.5
+      },
+      {
+        "Key": "_HitColorScaler",
+        "Value": 6.0
+      },
+      {
+        "Key": "_LightArea",
+        "Value": 0.5
+      },
+      {
+        "Key": "_MHYZBias",
+        "Value": 0.0
+      },
+      {
+        "Key": "_MTMapBrightness",
+        "Value": 3.0
+      },
+      {
+        "Key": "_MTMapTileScale",
+        "Value": 1.0
+      },
+      {
+        "Key": "_MTShininess",
+        "Value": 90.0
+      },
+      {
+        "Key": "_MTSpecularAttenInShadow",
+        "Value": 0.2
+      },
+      {
+        "Key": "_MTSpecularScale",
+        "Value": 15.0
+      },
+      {
+        "Key": "_MainTexAlphaCutoff",
+        "Value": 0.5
+      },
+      {
+        "Key": "_MainTexAlphaUse",
+        "Value": 1.0
+      },
+      {
+        "Key": "_MainTexColoring",
+        "Value": 0.0
+      },
+      {
+        "Key": "_Mask01_Speed_U",
+        "Value": 0.3
+      },
+      {
+        "Key": "_Mask01_Speed_V",
+        "Value": 0.0
+      },
+      {
+        "Key": "_Mask02_Speed_U",
+        "Value": 0.0
+      },
+      {
+        "Key": "_Mask02_Speed_V",
+        "Value": -0.33
+      },
+      {
+        "Key": "_MaskTexBlendModeToggle",
+        "Value": 0.0
+      },
+      {
+        "Key": "_MaskTexBrightness",
+        "Value": 1.0
+      },
+      {
+        "Key": "_MaskTexChannelSwitch",
+        "Value": 2.0
+      },
+      {
+        "Key": "_MaskTexToggle",
+        "Value": 0.0
+      },
+      {
+        "Key": "_MaskTex_Uspeed",
+        "Value": 0.0
+      },
+      {
+        "Key": "_MaskTex_Vspeed",
+        "Value": 0.0
+      },
+      {
+        "Key": "_Mask_Speed_U",
+        "Value": -0.1
+      },
+      {
+        "Key": "_Mask_Speed_V",
+        "Value": 0.0
+      },
+      {
+        "Key": "_MaxOutlineZOffset",
+        "Value": 1.0
+      },
+      {
+        "Key": "_MetalMaterial",
+        "Value": 1.0
+      },
+      {
+        "Key": "_Metallic",
+        "Value": 0.0
+      },
+      {
+        "Key": "_Mode",
+        "Value": 0.0
+      },
+      {
+        "Key": "_MotionVectorsAlphaCutoff",
+        "Value": 0.1
+      },
+      {
+        "Key": "_NoiseIntensityOnMask",
+        "Value": 0.0
+      },
+      {
+        "Key": "_NoiseTexChannelSwitch",
+        "Value": 0.0
+      },
+      {
+        "Key": "_NoiseTexToggle",
+        "Value": 0.0
+      },
+      {
+        "Key": "_NoiseTexUVRandomToggle",
+        "Value": 0.0
+      },
+      {
+        "Key": "_NoiseTex_Uspeed",
+        "Value": 1.0
+      },
+      {
+        "Key": "_NoiseTex_Vspeed",
+        "Value": 1.0
+      },
+      {
+        "Key": "_Noise_Brightness",
+        "Value": 1.0
+      },
+      {
+        "Key": "_Noise_Offset",
+        "Value": 0.0
+      },
+      {
+        "Key": "_OcclusionStrength",
+        "Value": 1.0
+      },
+      {
+        "Key": "_OutlinePolygonOffsetFactor",
+        "Value": 4.0
+      },
+      {
+        "Key": "_OutlinePolygonOffsetUnit",
+        "Value": 1.0
+      },
+      {
+        "Key": "_OutlineType",
+        "Value": 2.0
+      },
+      {
+        "Key": "_OutlineWidth",
+        "Value": 0.03
+      },
+      {
+        "Key": "_Parallax",
+        "Value": 0.02
+      },
+      {
+        "Key": "_PolygonOffsetFactor",
+        "Value": 0.0
+      },
+      {
+        "Key": "_PolygonOffsetUnit",
+        "Value": 0.0
+      },
+      {
+        "Key": "_SOFTPARTICLES",
+        "Value": 0.0
+      },
+      {
+        "Key": "_Scale",
+        "Value": 0.01
+      },
+      {
+        "Key": "_ShadowRampWidth",
+        "Value": 1.0
+      },
+      {
+        "Key": "_ShadowTransitionRange",
+        "Value": 0.01
+      },
+      {
+        "Key": "_ShadowTransitionRange2",
+        "Value": 0.01
+      },
+      {
+        "Key": "_ShadowTransitionRange3",
+        "Value": 0.01
+      },
+      {
+        "Key": "_ShadowTransitionRange4",
+        "Value": 0.01
+      },
+      {
+        "Key": "_ShadowTransitionRange5",
+        "Value": 0.01
+      },
+      {
+        "Key": "_ShadowTransitionSoftness",
+        "Value": 0.5
+      },
+      {
+        "Key": "_ShadowTransitionSoftness2",
+        "Value": 0.5
+      },
+      {
+        "Key": "_ShadowTransitionSoftness3",
+        "Value": 0.5
+      },
+      {
+        "Key": "_ShadowTransitionSoftness4",
+        "Value": 0.5
+      },
+      {
+        "Key": "_ShadowTransitionSoftness5",
+        "Value": 0.5
+      },
+      {
+        "Key": "_ShadowWidth",
+        "Value": 0.456
+      },
+      {
+        "Key": "_Shininess",
+        "Value": 10.0
+      },
+      {
+        "Key": "_Shininess2",
+        "Value": 10.0
+      },
+      {
+        "Key": "_Shininess3",
+        "Value": 10.0
+      },
+      {
+        "Key": "_Shininess4",
+        "Value": 10.0
+      },
+      {
+        "Key": "_Shininess5",
+        "Value": 10.0
+      },
+      {
+        "Key": "_SmoothnessTextureChannel",
+        "Value": 0.0
+      },
+      {
+        "Key": "_SpecMulti",
+        "Value": 0.0
+      },
+      {
+        "Key": "_SpecMulti2",
+        "Value": 0.1
+      },
+      {
+        "Key": "_SpecMulti3",
+        "Value": 0.1
+      },
+      {
+        "Key": "_SpecMulti4",
+        "Value": 0.1
+      },
+      {
+        "Key": "_SpecMulti5",
+        "Value": 0.1
+      },
+      {
+        "Key": "_SpecularHighlights",
+        "Value": 1.0
+      },
+      {
+        "Key": "_SrcBlend",
+        "Value": 1.0
+      },
+      {
+        "Key": "_SrcBlendMode",
+        "Value": 5.0
+      },
+      {
+        "Key": "_Step01",
+        "Value": 0.015
+      },
+      {
+        "Key": "_Step02",
+        "Value": 0.424
+      },
+      {
+        "Key": "_Tex01_Speed_U",
+        "Value": -0.1
+      },
+      {
+        "Key": "_Tex01_Speed_V",
+        "Value": -0.2
+      },
+      {
+        "Key": "_Tex02_Speed_U",
+        "Value": 0.1
+      },
+      {
+        "Key": "_Tex02_Speed_V",
+        "Value": -0.2
+      },
+      {
+        "Key": "_Tex03_MaskStep",
+        "Value": 0.4294118
+      },
+      {
+        "Key": "_Tex03_Speed_U",
+        "Value": -0.15
+      },
+      {
+        "Key": "_Tex03_Speed_V",
+        "Value": -0.5
+      },
+      {
+        "Key": "_Tex04_Speed_U",
+        "Value": -0.1
+      },
+      {
+        "Key": "_Tex04_Speed_V",
+        "Value": 0.0
+      },
+      {
+        "Key": "_Tex05_Range",
+        "Value": 0.377
+      },
+      {
+        "Key": "_Tex05_Speed_U",
+        "Value": 0.1
+      },
+      {
+        "Key": "_Tex05_Speed_V",
+        "Value": 0.0
+      },
+      {
+        "Key": "_Tex06_Speed_U",
+        "Value": 0.0
+      },
+      {
+        "Key": "_Tex06_Speed_V",
+        "Value": 0.0
+      },
+      {
+        "Key": "_TextureBiasWhenDithering",
+        "Value": -1.0
+      },
+      {
+        "Key": "_TopLineRange",
+        "Value": 0.061
+      },
+      {
+        "Key": "_TopLineWidth",
+        "Value": 0.00141
+      },
+      {
+        "Key": "_TopMaskRange",
+        "Value": 0.033
+      },
+      {
+        "Key": "_UVSec",
+        "Value": 0.0
+      },
+      {
+        "Key": "_UseAmbientPoint",
+        "Value": 0.0
+      },
+      {
+        "Key": "_UseBackFaceUV2",
+        "Value": 1.0
+      },
+      {
+        "Key": "_UseClipPlane",
+        "Value": 0.0
+      },
+      {
+        "Key": "_UseCoolShadowColorOrTex",
+        "Value": 1.0
+      },
+      {
+        "Key": "_UseFaceMapNew",
+        "Value": 0.0
+      },
+      {
+        "Key": "_UseLightMapColorAO",
+        "Value": 1.0
+      },
+      {
+        "Key": "_UseMaterial2",
+        "Value": 1.0
+      },
+      {
+        "Key": "_UseMaterial3",
+        "Value": 1.0
+      },
+      {
+        "Key": "_UseMaterial4",
+        "Value": 0.0
+      },
+      {
+        "Key": "_UseMaterial5",
+        "Value": 0.0
+      },
+      {
+        "Key": "_UseShadowRamp",
+        "Value": 1.0
+      },
+      {
+        "Key": "_UseShadowTransition",
+        "Value": 0.0
+      },
+      {
+        "Key": "_UseToonLightMap",
+        "Value": 1.0
+      },
+      {
+        "Key": "_UseToonSpecular",
+        "Value": 1.0
+      },
+      {
+        "Key": "_UseVertexColorAO",
+        "Value": 1.0
+      },
+      {
+        "Key": "_UseVertexRampWidth",
+        "Value": 1.0
+      },
+      {
+        "Key": "_UsingDitherAlpha",
+        "Value": 0.0
+      },
+      {
+        "Key": "_UtilityDisplay1",
+        "Value": 0.0
+      },
+      {
+        "Key": "_UtilityDisplay2",
+        "Value": 0.0
+      },
+      {
+        "Key": "_ZWrite",
+        "Value": 1.0
+      },
+      {
+        "Key": "_Ztest",
+        "Value": 4.0
+      },
+      {
+        "Key": "_Zwrite",
+        "Value": 1.0
+      }
+    ],
+    "m_Colors": [
+      {
+        "Key": "_ClipPlane",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_Color",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_Color0",
+        "Value": {
+          "r": 1.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_Color2",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_Color3",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_Color4",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_Color5",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_CoolShadowMultColor",
+        "Value": {
+          "r": 0.9,
+          "g": 0.7,
+          "b": 0.75,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_CoolShadowMultColor2",
+        "Value": {
+          "r": 0.9,
+          "g": 0.7,
+          "b": 0.75,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_CoolShadowMultColor3",
+        "Value": {
+          "r": 0.9,
+          "g": 0.7,
+          "b": 0.75,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_CoolShadowMultColor4",
+        "Value": {
+          "r": 0.9,
+          "g": 0.7,
+          "b": 0.75,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_CoolShadowMultColor5",
+        "Value": {
+          "r": 0.9,
+          "g": 0.7,
+          "b": 0.75,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_DayColor",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_EmissionColor",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_EmissionColor_MHY",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_FaceBlushColor",
+        "Value": {
+          "r": 1.0,
+          "g": 0.8,
+          "b": 0.7,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_FirstShadowMultColor",
+        "Value": {
+          "r": 0.9,
+          "g": 0.7,
+          "b": 0.75,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_FirstShadowMultColor2",
+        "Value": {
+          "r": 0.9,
+          "g": 0.7,
+          "b": 0.75,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_FirstShadowMultColor3",
+        "Value": {
+          "r": 0.9,
+          "g": 0.7,
+          "b": 0.75,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_FirstShadowMultColor4",
+        "Value": {
+          "r": 0.9,
+          "g": 0.7,
+          "b": 0.75,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_FirstShadowMultColor5",
+        "Value": {
+          "r": 0.9,
+          "g": 0.7,
+          "b": 0.75,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_FresnelColor",
+        "Value": {
+          "r": 1.0,
+          "g": 0.5344827,
+          "b": 0.48850572,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_Gradient_01_Color",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_Gradient_02_Color",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_HitColor",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_LightColor",
+        "Value": {
+          "r": 0.36029392,
+          "g": 0.19604221,
+          "b": 0.19604221,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_LineColor",
+        "Value": {
+          "r": 1.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_MTMapDarkColor",
+        "Value": {
+          "r": 0.75,
+          "g": 0.4321788,
+          "b": 0.34742647,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_MTMapLightColor",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_MTShadowMultiColor",
+        "Value": {
+          "r": 0.7372549,
+          "g": 0.654902,
+          "b": 0.73333335,
+          "a": 0.8
+        }
+      },
+      {
+        "Key": "_MTSpecularColor",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_MainColor",
+        "Value": {
+          "r": 0.19117588,
+          "g": 0.10295547,
+          "b": 0.06325645,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_MainTexTintColor",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_Mask_UV",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_MeshParticleColorArray",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_OutlineColor",
+        "Value": {
+          "r": 0.44117647,
+          "g": 0.25302768,
+          "b": 0.25302768,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_OutlineColor2",
+        "Value": {
+          "r": 0.59607846,
+          "g": 0.3137255,
+          "b": 0.31372547,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_OutlineColor3",
+        "Value": {
+          "r": 0.7941176,
+          "g": 0.2802768,
+          "b": 0.2802768,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_OutlineColor4",
+        "Value": {
+          "r": 0.4037089,
+          "g": 0.40700316,
+          "b": 0.41911763,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_OutlineColor5",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_OutlineWidthAdjustScales",
+        "Value": {
+          "r": 0.105,
+          "g": 0.245,
+          "b": 0.6,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_OutlineWidthAdjustZs",
+        "Value": {
+          "r": 0.01,
+          "g": 2.0,
+          "b": 6.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_ShadowColor",
+        "Value": {
+          "r": 0.3014703,
+          "g": 0.11761307,
+          "b": 0.08645088,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_SpecularColor",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_Tex01_UV",
+        "Value": {
+          "r": 0.75,
+          "g": 0.75,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_Tex02_UV",
+        "Value": {
+          "r": 1.75,
+          "g": 1.75,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_Tex03_UV",
+        "Value": {
+          "r": 0.75,
+          "g": 0.75,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_Tex04_UV",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 0.0,
+          "a": -0.01
+        }
+      },
+      {
+        "Key": "_Tex05_UV",
+        "Value": {
+          "r": 3.0,
+          "g": 1.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_Vector0",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_Vector1",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      }
+    ]
+  },
+  "m_Name": "Monster_Asmoda_Hand_Eff_Mat",
+  "Name": "Monster_Asmoda_Hand_Eff_Mat"
+}

@@ -1,0 +1,272 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": -8785326815849194084,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": [
+      {
+        "Key": "_CloudTex",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 2,
+            "m_PathID": -8379413632892222623,
+            "Name": "",
+            "IsNull": false
+          },
+          "m_Scale": {
+            "X": 0.7,
+            "Y": 0.7
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_ColorPaletteTex",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 3,
+            "m_PathID": -5342642806859281524,
+            "Name": "",
+            "IsNull": false
+          },
+          "m_Scale": {
+            "X": 0.8,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_ConstellationTex",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 4,
+            "m_PathID": -4133260743089029911,
+            "Name": "",
+            "IsNull": false
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_MainTex",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 5,
+            "m_PathID": -7427841837473356630,
+            "Name": "NPC_Kanban_Paimon_Tex_Cloak_Diffuse",
+            "IsNull": false
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_NoiseTex01",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 6,
+            "m_PathID": -2846951801954545040,
+            "Name": "",
+            "IsNull": false
+          },
+          "m_Scale": {
+            "X": 12.0,
+            "Y": 12.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_NoiseTex02",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 7,
+            "m_PathID": 1993375875807871567,
+            "Name": "",
+            "IsNull": false
+          },
+          "m_Scale": {
+            "X": 6.0,
+            "Y": 6.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_Star02Tex",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 8,
+            "m_PathID": -10706493796433151,
+            "Name": "",
+            "IsNull": false
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_StarTex",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 8,
+            "m_PathID": -10706493796433151,
+            "Name": "",
+            "IsNull": false
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      }
+    ],
+    "m_Ints": null,
+    "m_Floats": [
+      {
+        "Key": "_CloudBrightness",
+        "Value": 0.17
+      },
+      {
+        "Key": "_CloudHeight",
+        "Value": 5.0
+      },
+      {
+        "Key": "_ColorPalletteSpeed",
+        "Value": -0.09
+      },
+      {
+        "Key": "_ConstellationBrightness",
+        "Value": 2.0
+      },
+      {
+        "Key": "_ConstellationHeight",
+        "Value": 1.5
+      },
+      {
+        "Key": "_CutOff",
+        "Value": 0.0
+      },
+      {
+        "Key": "_DisableCGP",
+        "Value": 1.0
+      },
+      {
+        "Key": "_DitherAlpha",
+        "Value": 1.0
+      },
+      {
+        "Key": "_ElementViewEleID",
+        "Value": 0.0
+      },
+      {
+        "Key": "_EnableAlphaTest",
+        "Value": 0.0
+      },
+      {
+        "Key": "_MaxOutlineZOffset",
+        "Value": 0.0
+      },
+      {
+        "Key": "_Noise01Speed",
+        "Value": 0.075
+      },
+      {
+        "Key": "_Noise02Speed",
+        "Value": -0.045
+      },
+      {
+        "Key": "_Noise03Brightness",
+        "Value": 0.05
+      },
+      {
+        "Key": "_OutlineOn",
+        "Value": 0.0
+      },
+      {
+        "Key": "_OutlineWidth",
+        "Value": 0.0
+      },
+      {
+        "Key": "_ReceiveShadow",
+        "Value": 0.0
+      },
+      {
+        "Key": "_Scale",
+        "Value": 0.01
+      },
+      {
+        "Key": "_Star01Speed",
+        "Value": 0.007
+      },
+      {
+        "Key": "_Star02Height",
+        "Value": 6.0
+      },
+      {
+        "Key": "_StarBrightness",
+        "Value": 50.0
+      },
+      {
+        "Key": "_StarHeight",
+        "Value": 3.0
+      },
+      {
+        "Key": "_UsingDitherAlpha",
+        "Value": 0.0
+      }
+    ],
+    "m_Colors": [
+      {
+        "Key": "_OutlineColor",
+        "Value": {
+          "r": 0.15895331,
+          "g": 0.15927695,
+          "b": 0.20588237,
+          "a": 1.0
+        }
+      }
+    ]
+  },
+  "m_Name": "NPC_Kanban_Paimon_Mat_Cloak",
+  "Name": "NPC_Kanban_Paimon_Mat_Cloak"
+}
