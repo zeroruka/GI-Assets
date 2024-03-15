@@ -1,0 +1,502 @@
+{
+  "m_Shader": {
+    "m_FileID": 4,
+    "m_PathID": 2853587891874243506,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": [
+      {
+        "Key": "_BurstArmB_DissloveTex",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 3,
+            "m_PathID": -2846951801954545040,
+            "Name": "",
+            "IsNull": false
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 1.76,
+            "Y": 0.48
+          }
+        }
+      },
+      {
+        "Key": "_ClothEyesMask",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 2,
+            "m_PathID": -164094732314067098,
+            "Name": "",
+            "IsNull": false
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_ClothEyesPatter",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 1,
+            "m_PathID": 6626482103133789322,
+            "Name": "",
+            "IsNull": false
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_MainTex",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 6,
+            "m_PathID": 4998924971482107844,
+            "Name": "SkillObj_Cyno_Jackal_Tex_Diffuse",
+            "IsNull": false
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_NoiseTex",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 0,
+            "m_PathID": 0,
+            "Name": "",
+            "IsNull": true
+          },
+          "m_Scale": {
+            "X": 3.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_PattenDisslove",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 5,
+            "m_PathID": -3160689227234930886,
+            "Name": "Eff_Avatar_Cyno_Symbol_03",
+            "IsNull": false
+          },
+          "m_Scale": {
+            "X": 3.0,
+            "Y": 30.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_VerTex",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 7,
+            "m_PathID": 4700847989025800442,
+            "Name": "",
+            "IsNull": false
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      }
+    ],
+    "m_Ints": null,
+    "m_Floats": [
+      {
+        "Key": "_BlendOP",
+        "Value": 0.0
+      },
+      {
+        "Key": "_BumpScale",
+        "Value": 1.0
+      },
+      {
+        "Key": "_BurstArmB_DissloveAni",
+        "Value": -0.1
+      },
+      {
+        "Key": "_BurstArmB_FireAni",
+        "Value": 0.0
+      },
+      {
+        "Key": "_BurstArm_AlphaEdge",
+        "Value": 2.0
+      },
+      {
+        "Key": "_BurstArm_FireEdge",
+        "Value": 3.0
+      },
+      {
+        "Key": "_Clip",
+        "Value": 0.5
+      },
+      {
+        "Key": "_ClothBright",
+        "Value": 1.0
+      },
+      {
+        "Key": "_Cloth_U_Speed",
+        "Value": 0.0
+      },
+      {
+        "Key": "_Cloth_V_Speed",
+        "Value": 0.01
+      },
+      {
+        "Key": "_Cull",
+        "Value": 0.0
+      },
+      {
+        "Key": "_Cutoff",
+        "Value": 0.5
+      },
+      {
+        "Key": "_DetailNormalMapScale",
+        "Value": 1.0
+      },
+      {
+        "Key": "_DissloveFadeEage",
+        "Value": 0.05
+      },
+      {
+        "Key": "_DissloveFadeVale",
+        "Value": 1.0
+      },
+      {
+        "Key": "_DitherAlpha",
+        "Value": 1.0
+      },
+      {
+        "Key": "_DstBlend",
+        "Value": 0.0
+      },
+      {
+        "Key": "_DstBlendMode",
+        "Value": 10.0
+      },
+      {
+        "Key": "_ElementViewEleID",
+        "Value": 0.0
+      },
+      {
+        "Key": "_EyesBright",
+        "Value": 1.0
+      },
+      {
+        "Key": "_Eyes_U_Speed",
+        "Value": 0.0
+      },
+      {
+        "Key": "_Eyes_V_Speed",
+        "Value": 0.01
+      },
+      {
+        "Key": "_FrenselCloth",
+        "Value": 0.0
+      },
+      {
+        "Key": "_FresnelPower",
+        "Value": 5.0
+      },
+      {
+        "Key": "_FresnelScale",
+        "Value": 1.5
+      },
+      {
+        "Key": "_GlossMapScale",
+        "Value": 1.0
+      },
+      {
+        "Key": "_Glossiness",
+        "Value": 0.5
+      },
+      {
+        "Key": "_GlossyReflections",
+        "Value": 1.0
+      },
+      {
+        "Key": "_MHYZBias",
+        "Value": 0.0
+      },
+      {
+        "Key": "_Metallic",
+        "Value": 0.0
+      },
+      {
+        "Key": "_Mode",
+        "Value": 0.0
+      },
+      {
+        "Key": "_NoiseMultiplier",
+        "Value": 0.3
+      },
+      {
+        "Key": "_Noise_U_Speed",
+        "Value": 0.0
+      },
+      {
+        "Key": "_Noise_V_Speed",
+        "Value": 0.1
+      },
+      {
+        "Key": "_OcclusionStrength",
+        "Value": 1.0
+      },
+      {
+        "Key": "_Parallax",
+        "Value": 0.02
+      },
+      {
+        "Key": "_PattenDisslove_Uspeed",
+        "Value": -0.8
+      },
+      {
+        "Key": "_PattenDisslove_Vspeed",
+        "Value": 0.0
+      },
+      {
+        "Key": "_PolygonOffsetFactor",
+        "Value": 0.0
+      },
+      {
+        "Key": "_PolygonOffsetUnit",
+        "Value": 0.0
+      },
+      {
+        "Key": "_SmoothnessTextureChannel",
+        "Value": 0.0
+      },
+      {
+        "Key": "_SpecularHighlights",
+        "Value": 1.0
+      },
+      {
+        "Key": "_SrcBlend",
+        "Value": 1.0
+      },
+      {
+        "Key": "_SrcBlendMode",
+        "Value": 5.0
+      },
+      {
+        "Key": "_TextureBiasWhenDithering",
+        "Value": -1.0
+      },
+      {
+        "Key": "_UVSec",
+        "Value": 0.0
+      },
+      {
+        "Key": "_UsingDitherAlpha",
+        "Value": 0.0
+      },
+      {
+        "Key": "_VertexMutiply",
+        "Value": 0.15
+      },
+      {
+        "Key": "_VertexU_Speed",
+        "Value": 0.3
+      },
+      {
+        "Key": "_VertexV_Speed",
+        "Value": 0.0
+      },
+      {
+        "Key": "_ZWrite",
+        "Value": 1.0
+      },
+      {
+        "Key": "_Ztest",
+        "Value": 4.0
+      },
+      {
+        "Key": "_Zwrite",
+        "Value": 1.0
+      },
+      {
+        "Key": "_alphaFresnel_Bias",
+        "Value": 0.0
+      },
+      {
+        "Key": "_alphaFresnel_Power",
+        "Value": 0.0
+      },
+      {
+        "Key": "_alphaFresnel_Scale",
+        "Value": 3.0
+      }
+    ],
+    "m_Colors": [
+      {
+        "Key": "_BackColor",
+        "Value": {
+          "r": 0.7770549,
+          "g": 0.5955881,
+          "b": 1.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_BurstArmB_DarkColor",
+        "Value": {
+          "r": 0.5,
+          "g": 0.5,
+          "b": 0.5,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_BurstArm_FireColor",
+        "Value": {
+          "r": 1.0990491,
+          "g": 0.73529387,
+          "b": 4.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_ClothColor",
+        "Value": {
+          "r": 1.22,
+          "g": 1.22,
+          "b": 1.22,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_ClothUVtile",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_Color",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_DissloveColor",
+        "Value": {
+          "r": 0.97565883,
+          "g": 0.4411765,
+          "b": 5.000002,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_EmissionColor",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_EyeColor",
+        "Value": {
+          "r": 2.210956,
+          "g": 1.717639,
+          "b": 0.4226825,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_EyesColor",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_EyesUVtile",
+        "Value": {
+          "r": 3.0,
+          "g": 1.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_FresnelColor",
+        "Value": {
+          "r": 0.63742363,
+          "g": 0.52205825,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_MainColor",
+        "Value": {
+          "r": 1.2,
+          "g": 1.2,
+          "b": 1.2,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_NoiseUVtile",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 5.0,
+          "a": 1.0
+        }
+      }
+    ]
+  },
+  "m_Name": "SkillObj_Cyno_Jackal_BurstArmS_Eff",
+  "Name": "SkillObj_Cyno_Jackal_BurstArmS_Eff"
+}

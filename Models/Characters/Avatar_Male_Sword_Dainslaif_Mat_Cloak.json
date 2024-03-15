@@ -1,0 +1,1127 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": -3866630404222477889,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": [
+      {
+        "Key": "_AnimTextureQ",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 0,
+            "m_PathID": 0,
+            "Name": "",
+            "IsNull": true
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_AnimTextureT",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 0,
+            "m_PathID": 0,
+            "Name": "",
+            "IsNull": true
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_CloudTex",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 8,
+            "m_PathID": -8379413632892222623,
+            "Name": "",
+            "IsNull": false
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_ColorPaletteTex",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 4,
+            "m_PathID": 2711270389859568213,
+            "Name": "Dainslaif_Stars_Color_Palette_HighSaturation",
+            "IsNull": false
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_ConstellationTex",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 3,
+            "m_PathID": -4133260743089029911,
+            "Name": "",
+            "IsNull": false
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_FaceMapTex",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 0,
+            "m_PathID": 0,
+            "Name": "",
+            "IsNull": true
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_LightMapTex",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 5,
+            "m_PathID": 5673440876823640316,
+            "Name": "Avatar_Male_Sword_Dainslaif_Tex_Body_Lightmap",
+            "IsNull": false
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_MTMap",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 9,
+            "m_PathID": -867313356815120306,
+            "Name": "",
+            "IsNull": false
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_MainTex",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 7,
+            "m_PathID": -995910698504478329,
+            "Name": "Avatar_Male_Sword_Dainslaif_Tex_Body_Diffuse",
+            "IsNull": false
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_MaterialMasksTex",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 0,
+            "m_PathID": 0,
+            "Name": "",
+            "IsNull": true
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_NoiseTex01",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 6,
+            "m_PathID": -2846951801954545040,
+            "Name": "",
+            "IsNull": false
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_NoiseTex02",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 10,
+            "m_PathID": 1993375875807871567,
+            "Name": "",
+            "IsNull": false
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_PackedShadowRampTex",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 2,
+            "m_PathID": 6933910318229664083,
+            "Name": "Avatar_Male_Sword_Dainslaif_Tex_Body_Shadow_Ramp",
+            "IsNull": false
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_Star02Tex",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 0,
+            "m_PathID": 0,
+            "Name": "",
+            "IsNull": true
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_StarTex",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 0,
+            "m_PathID": 0,
+            "Name": "",
+            "IsNull": true
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      }
+    ],
+    "m_Ints": null,
+    "m_Floats": [
+      {
+        "Key": "_ANIMATE_NON_SKINNEDMESH",
+        "Value": 0.0
+      },
+      {
+        "Key": "_ASEHeader",
+        "Value": 0.0
+      },
+      {
+        "Key": "_AmbientPointColorDensity",
+        "Value": 0.5
+      },
+      {
+        "Key": "_AmbientPointFlatness",
+        "Value": 1.0
+      },
+      {
+        "Key": "_AmbientPointRange",
+        "Value": 0.85
+      },
+      {
+        "Key": "_AmbientPointSoftness",
+        "Value": 0.3
+      },
+      {
+        "Key": "_AmbientPointStrength",
+        "Value": 0.1
+      },
+      {
+        "Key": "_AmbientPointUtility",
+        "Value": 0.0
+      },
+      {
+        "Key": "_AmbientPointYOffset",
+        "Value": 0.37
+      },
+      {
+        "Key": "_AnimBoneOffset",
+        "Value": 0.0
+      },
+      {
+        "Key": "_AnimFPS",
+        "Value": 15.0
+      },
+      {
+        "Key": "_BumpScale",
+        "Value": 1.0
+      },
+      {
+        "Key": "_CharacterAmbientSensorColorOn",
+        "Value": 0.0
+      },
+      {
+        "Key": "_CharacterAmbientSensorForceShadowOn",
+        "Value": 0.0
+      },
+      {
+        "Key": "_CharacterAmbientSensorShadowOn",
+        "Value": 0.0
+      },
+      {
+        "Key": "_ClipPlaneWorld",
+        "Value": 1.0
+      },
+      {
+        "Key": "_CloudBrightness",
+        "Value": 1.0
+      },
+      {
+        "Key": "_CloudHeight",
+        "Value": 1.0
+      },
+      {
+        "Key": "_ColorPalletteSpeed",
+        "Value": -0.1
+      },
+      {
+        "Key": "_ConstellationBrightness",
+        "Value": 5.0
+      },
+      {
+        "Key": "_ConstellationHeight",
+        "Value": 1.2
+      },
+      {
+        "Key": "_CullMode",
+        "Value": 2.0
+      },
+      {
+        "Key": "_Cutoff",
+        "Value": 0.5
+      },
+      {
+        "Key": "_DetailNormalMapScale",
+        "Value": 1.0
+      },
+      {
+        "Key": "_DitherAlpha",
+        "Value": 1.0
+      },
+      {
+        "Key": "_DrawBackFace",
+        "Value": 0.0
+      },
+      {
+        "Key": "_DstBlend",
+        "Value": 0.0
+      },
+      {
+        "Key": "_ElementViewEleID",
+        "Value": 0.0
+      },
+      {
+        "Key": "_EmissionScaler",
+        "Value": 2.0
+      },
+      {
+        "Key": "_EmissionScaler1",
+        "Value": 1.0
+      },
+      {
+        "Key": "_EmissionScaler2",
+        "Value": 1.0
+      },
+      {
+        "Key": "_EmissionScaler3",
+        "Value": 1.0
+      },
+      {
+        "Key": "_EmissionScaler4",
+        "Value": 1.0
+      },
+      {
+        "Key": "_EmissionScaler5",
+        "Value": 1.0
+      },
+      {
+        "Key": "_EmissionStrengthLerp",
+        "Value": 0.0
+      },
+      {
+        "Key": "_FaceBlushStrength",
+        "Value": 0.0
+      },
+      {
+        "Key": "_FaceMapRotateOffset",
+        "Value": 0.0
+      },
+      {
+        "Key": "_FaceMapSoftness",
+        "Value": 1E-06
+      },
+      {
+        "Key": "_GlossMapScale",
+        "Value": 1.0
+      },
+      {
+        "Key": "_Glossiness",
+        "Value": 0.5
+      },
+      {
+        "Key": "_GlossyReflections",
+        "Value": 1.0
+      },
+      {
+        "Key": "_HitColorFresnelPower",
+        "Value": 1.5
+      },
+      {
+        "Key": "_HitColorScaler",
+        "Value": 6.0
+      },
+      {
+        "Key": "_InstanceData",
+        "Value": 0.0
+      },
+      {
+        "Key": "_LightArea",
+        "Value": 0.5
+      },
+      {
+        "Key": "_MTMapBrightness",
+        "Value": 2.0
+      },
+      {
+        "Key": "_MTMapTileScale",
+        "Value": 1.2
+      },
+      {
+        "Key": "_MTShininess",
+        "Value": 60.0
+      },
+      {
+        "Key": "_MTSpecularAttenInShadow",
+        "Value": 0.2
+      },
+      {
+        "Key": "_MTSpecularScale",
+        "Value": 15.0
+      },
+      {
+        "Key": "_MainTexAlphaCutoff",
+        "Value": 0.5
+      },
+      {
+        "Key": "_MainTexAlphaUse",
+        "Value": 2.0
+      },
+      {
+        "Key": "_MainTexColoring",
+        "Value": 0.0
+      },
+      {
+        "Key": "_MaxOutlineZOffset",
+        "Value": 0.0
+      },
+      {
+        "Key": "_MetalMaterial",
+        "Value": 0.0
+      },
+      {
+        "Key": "_Metallic",
+        "Value": 0.0
+      },
+      {
+        "Key": "_Mode",
+        "Value": 0.0
+      },
+      {
+        "Key": "_Noise01Speed",
+        "Value": 0.1
+      },
+      {
+        "Key": "_Noise02Speed",
+        "Value": -0.1
+      },
+      {
+        "Key": "_Noise03Brightness",
+        "Value": 0.2
+      },
+      {
+        "Key": "_NpcColoring",
+        "Value": 0.0
+      },
+      {
+        "Key": "_OcclusionStrength",
+        "Value": 1.0
+      },
+      {
+        "Key": "_OutlinePolygonOffsetFactor",
+        "Value": 0.0
+      },
+      {
+        "Key": "_OutlinePolygonOffsetUnit",
+        "Value": 0.0
+      },
+      {
+        "Key": "_OutlineType",
+        "Value": 2.0
+      },
+      {
+        "Key": "_OutlineWidth",
+        "Value": 0.0
+      },
+      {
+        "Key": "_Parallax",
+        "Value": 0.02
+      },
+      {
+        "Key": "_PolygonOffsetFactor",
+        "Value": 0.0
+      },
+      {
+        "Key": "_PolygonOffsetUnit",
+        "Value": 0.0
+      },
+      {
+        "Key": "_Scale",
+        "Value": 0.01
+      },
+      {
+        "Key": "_ShadowRampWidth",
+        "Value": 1.0
+      },
+      {
+        "Key": "_ShadowTransitionRange",
+        "Value": 0.1
+      },
+      {
+        "Key": "_ShadowTransitionRange2",
+        "Value": 0.01
+      },
+      {
+        "Key": "_ShadowTransitionRange3",
+        "Value": 0.01
+      },
+      {
+        "Key": "_ShadowTransitionRange4",
+        "Value": 0.01
+      },
+      {
+        "Key": "_ShadowTransitionRange5",
+        "Value": 0.01
+      },
+      {
+        "Key": "_ShadowTransitionSoftness",
+        "Value": 0.5
+      },
+      {
+        "Key": "_ShadowTransitionSoftness2",
+        "Value": 0.5
+      },
+      {
+        "Key": "_ShadowTransitionSoftness3",
+        "Value": 0.5
+      },
+      {
+        "Key": "_ShadowTransitionSoftness4",
+        "Value": 0.5
+      },
+      {
+        "Key": "_ShadowTransitionSoftness5",
+        "Value": 0.5
+      },
+      {
+        "Key": "_Shininess",
+        "Value": 10.0
+      },
+      {
+        "Key": "_Shininess2",
+        "Value": 10.0
+      },
+      {
+        "Key": "_Shininess3",
+        "Value": 10.0
+      },
+      {
+        "Key": "_Shininess4",
+        "Value": 10.0
+      },
+      {
+        "Key": "_Shininess5",
+        "Value": 10.0
+      },
+      {
+        "Key": "_SmoothnessTextureChannel",
+        "Value": 0.0
+      },
+      {
+        "Key": "_SpecMulti",
+        "Value": 0.499
+      },
+      {
+        "Key": "_SpecMulti2",
+        "Value": 0.1
+      },
+      {
+        "Key": "_SpecMulti3",
+        "Value": 0.1
+      },
+      {
+        "Key": "_SpecMulti4",
+        "Value": 0.1
+      },
+      {
+        "Key": "_SpecMulti5",
+        "Value": 0.1
+      },
+      {
+        "Key": "_SpecularHighlights",
+        "Value": 1.0
+      },
+      {
+        "Key": "_SrcBlend",
+        "Value": 1.0
+      },
+      {
+        "Key": "_Star01Speed",
+        "Value": 0.0
+      },
+      {
+        "Key": "_Star02Height",
+        "Value": 0.0
+      },
+      {
+        "Key": "_StarBrightness",
+        "Value": 60.0
+      },
+      {
+        "Key": "_StarHeight",
+        "Value": 14.89
+      },
+      {
+        "Key": "_TessEdgeLength",
+        "Value": 10.0
+      },
+      {
+        "Key": "_TessOutlineZOffset",
+        "Value": 0.0
+      },
+      {
+        "Key": "_TessPidStart",
+        "Value": 0.0
+      },
+      {
+        "Key": "_TessStrength",
+        "Value": 1.0
+      },
+      {
+        "Key": "_TessType",
+        "Value": 0.0
+      },
+      {
+        "Key": "_TessellationCheckInflectionOn",
+        "Value": 1.0
+      },
+      {
+        "Key": "_TessellationOn",
+        "Value": 0.0
+      },
+      {
+        "Key": "_TextureBiasWhenDithering",
+        "Value": -1.0
+      },
+      {
+        "Key": "_UVSec",
+        "Value": 0.0
+      },
+      {
+        "Key": "_UseAmbientPoint",
+        "Value": 0.0
+      },
+      {
+        "Key": "_UseBackFaceUV2",
+        "Value": 0.0
+      },
+      {
+        "Key": "_UseClipPlane",
+        "Value": 0.0
+      },
+      {
+        "Key": "_UseCoolShadowColorOrTex",
+        "Value": 1.0
+      },
+      {
+        "Key": "_UseFaceMapNew",
+        "Value": 0.0
+      },
+      {
+        "Key": "_UseLightMapColorAO",
+        "Value": 1.0
+      },
+      {
+        "Key": "_UseMaterial2",
+        "Value": 0.0
+      },
+      {
+        "Key": "_UseMaterial3",
+        "Value": 0.0
+      },
+      {
+        "Key": "_UseMaterial4",
+        "Value": 0.0
+      },
+      {
+        "Key": "_UseMaterial5",
+        "Value": 0.0
+      },
+      {
+        "Key": "_UseShadowRamp",
+        "Value": 1.0
+      },
+      {
+        "Key": "_UseShadowTransition",
+        "Value": 0.0
+      },
+      {
+        "Key": "_UseToonLightMap",
+        "Value": 1.0
+      },
+      {
+        "Key": "_UseToonSpecular",
+        "Value": 1.0
+      },
+      {
+        "Key": "_UseVertexColorAO",
+        "Value": 1.0
+      },
+      {
+        "Key": "_UseVertexRampWidth",
+        "Value": 1.0
+      },
+      {
+        "Key": "_UsingDitherAlpha",
+        "Value": 0.0
+      },
+      {
+        "Key": "_UtilityDisplay1",
+        "Value": 0.0
+      },
+      {
+        "Key": "_UtilityDisplay2",
+        "Value": 0.0
+      },
+      {
+        "Key": "_ZWrite",
+        "Value": 1.0
+      }
+    ],
+    "m_Colors": [
+      {
+        "Key": "_ClipPlane",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_Color",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_Color2",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_Color3",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_Color4",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_Color5",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_CoolShadowMultColor",
+        "Value": {
+          "r": 0.9,
+          "g": 0.7,
+          "b": 0.75,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_CoolShadowMultColor2",
+        "Value": {
+          "r": 0.90196085,
+          "g": 0.7019608,
+          "b": 0.7490196,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_CoolShadowMultColor3",
+        "Value": {
+          "r": 0.9,
+          "g": 0.7,
+          "b": 0.75,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_CoolShadowMultColor4",
+        "Value": {
+          "r": 0.9,
+          "g": 0.7,
+          "b": 0.75,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_CoolShadowMultColor5",
+        "Value": {
+          "r": 0.9,
+          "g": 0.7,
+          "b": 0.75,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_ElementRimColor",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_EmissionColor",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_EmissionColor_MHY",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_FaceBlushColor",
+        "Value": {
+          "r": 1.0,
+          "g": 0.8,
+          "b": 0.7,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_FirstShadowMultColor",
+        "Value": {
+          "r": 0.9,
+          "g": 0.7,
+          "b": 0.75,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_FirstShadowMultColor2",
+        "Value": {
+          "r": 0.90196085,
+          "g": 0.7019608,
+          "b": 0.7490196,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_FirstShadowMultColor3",
+        "Value": {
+          "r": 0.9,
+          "g": 0.7,
+          "b": 0.75,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_FirstShadowMultColor4",
+        "Value": {
+          "r": 0.9,
+          "g": 0.7,
+          "b": 0.75,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_FirstShadowMultColor5",
+        "Value": {
+          "r": 0.9,
+          "g": 0.7,
+          "b": 0.75,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_HitColor",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_MTMapDarkColor",
+        "Value": {
+          "r": 0.5529412,
+          "g": 0.48627454,
+          "b": 0.4431373,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_MTMapLightColor",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_MTShadowMultiColor",
+        "Value": {
+          "r": 0.8078432,
+          "g": 0.7960785,
+          "b": 0.79215693,
+          "a": 0.8
+        }
+      },
+      {
+        "Key": "_MTSpecularColor",
+        "Value": {
+          "r": 0.81568635,
+          "g": 0.79215693,
+          "b": 0.74509805,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_MainTexTintColor",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_OutlineColor",
+        "Value": {
+          "r": 0.21009947,
+          "g": 0.21204834,
+          "b": 0.49264705,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_OutlineColor2",
+        "Value": {
+          "r": 0.52156866,
+          "g": 0.3254902,
+          "b": 0.30588236,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_OutlineColor3",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_OutlineColor4",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_OutlineColor5",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_OutlineWidthAdjustScales",
+        "Value": {
+          "r": 0.105,
+          "g": 0.245,
+          "b": 0.6,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_OutlineWidthAdjustZs",
+        "Value": {
+          "r": 0.01,
+          "g": 2.0,
+          "b": 6.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_SingleColorOutputColor",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_SpecularColor",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      }
+    ]
+  },
+  "m_Name": "Avatar_Male_Sword_Dainslaif_Mat_Cloak",
+  "Name": "Avatar_Male_Sword_Dainslaif_Mat_Cloak"
+}
