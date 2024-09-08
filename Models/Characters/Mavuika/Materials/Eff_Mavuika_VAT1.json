@@ -1,0 +1,288 @@
+{
+  "m_Shader": {
+    "m_FileID": 5,
+    "m_PathID": -2450102786899883420,
+    "Name": "miHoYo/Effects/Eff_Mavuika_VAT",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_AlphaNoise": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 2.0,
+          "Y": 2.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_HighlightMaskTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": -2.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 1.98
+        }
+      },
+      "_HighlightMaskTex2": {
+        "m_Texture": {
+          "m_FileID": 8,
+          "m_PathID": -211348980107855294,
+          "Name": "Eff_Symbol_Mavuika_00",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 2.0,
+          "Y": 2.0
+        },
+        "m_Offset": {
+          "X": -0.5,
+          "Y": -0.24
+        }
+      },
+      "_Main": {
+        "m_Texture": {
+          "m_FileID": 1,
+          "m_PathID": -8734465724399498667,
+          "Name": "Eff_FireNoise_03_NoMipMap",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 2.0,
+          "Y": 1.5
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_PosTex_A": {
+        "m_Texture": {
+          "m_FileID": 7,
+          "m_PathID": 5504642054398215855,
+          "Name": "Eff_Symbol_Mavuika_VAT_00",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_PosTex_B": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_RampA": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": -2652569359036526219,
+          "Name": "Eff_Symbol_Mavuika_Ramp_00",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_RampB": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": -8238403305227603590,
+          "Name": "Eff_Symbol_Mavuika_Ramp_01",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_RotTex_A": {
+        "m_Texture": {
+          "m_FileID": 4,
+          "m_PathID": 9190536142207384801,
+          "Name": "Eff_Symbol_Mavuika_VAT_01",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_RotTex_B": {
+        "m_Texture": {
+          "m_FileID": 6,
+          "m_PathID": 7213004640613396271,
+          "Name": "Eff_Symbol_Mavuika_VAT_02",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_AlphaNoiseScale": 0.0,
+      "_BoundMaxX": 0.08036,
+      "_BoundMaxY": 0.10477,
+      "_BoundMaxZ": 0.07053,
+      "_BoundMinX": -0.0803,
+      "_BoundMinY": -0.05844,
+      "_BoundMinZ": -0.08095,
+      "_CurrentFrame": 45.0,
+      "_CutOff": 0.785,
+      "_DitherAlpha": 1.0,
+      "_Dx11ShaderPsScore": 0.0,
+      "_Dx11ShaderScore": 0.0,
+      "_Dx11ShaderVsScore": 0.0,
+      "_ElementViewEleID": 0.0,
+      "_EnableAlphaTest": 1.0,
+      "_FrameCount": 60.0,
+      "_FresR": -0.11,
+      "_FresS": 1.0,
+      "_HighlightMaskTex2Switch": 0.0,
+      "_HighlightMaskTexSwitch": 0.0,
+      "_HoudiniFPS": 60.0,
+      "_IfAutoPlayback": 1.0,
+      "_IfInterframeInterp": 1.0,
+      "_MR": -0.07,
+      "_MS": 0.5,
+      "_MainSwitch": 0.0,
+      "_MaterialShadowBias": 0.0,
+      "_R": 0.0,
+      "_RampR": 0.5,
+      "_RampS": 0.4,
+      "_ReceiveShadow": 0.0,
+      "_RempLerp": 0.0,
+      "_S": 1.0,
+      "_Scale": 0.01,
+      "_Speed": 0.5,
+      "_TimeShift": 1.0,
+      "_UsingDitherAlpha": 0.0
+    },
+    "m_Colors": {
+      "_AllColorBrightness": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_AlphaNoiseSpeed": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_BC": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_DC": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_DayColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_FRESC": {
+        "r": 1.0421996,
+        "g": 1.0439999,
+        "b": 0.91349995,
+        "a": 0.0
+      },
+      "_HighlightColor": {
+        "r": 0.2720586,
+        "g": 1.0,
+        "b": 0.5782958,
+        "a": 0.0
+      },
+      "_HighlightColor2": {
+        "r": 0.0,
+        "g": 0.986,
+        "b": 0.5780001,
+        "a": 0.0
+      },
+      "_MCOLOR": {
+        "r": 1.0,
+        "g": 0.2689654,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_MainUVSpeed": {
+        "r": 0.1,
+        "g": -1.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_RampBrightColor": {
+        "r": 0.9338235,
+        "g": 0.92340565,
+        "b": 0.86516005,
+        "a": 0.0
+      },
+      "_RampDarkColor": {
+        "r": 0.61,
+        "g": 1.0,
+        "b": 0.6452332,
+        "a": 0.0
+      }
+    }
+  },
+  "m_Name": "Eff_Mavuika_VAT1",
+  "Name": "Eff_Mavuika_VAT1"
+}

@@ -1,0 +1,257 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": -3141903487219728005,
+    "Name": "miHoYo/Character/Glass",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_GlassSpecularTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": 4813568364655092612,
+          "Name": "Eff_Mask_171",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.05,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": -0.8,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": 938098847716068711,
+          "Name": "SkillObj_Mavuika_Glass_Diffuse",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_WeaponDissolveTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_WeaponPatternTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 2.0,
+          "Y": 2.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "UseGlassSpecularToggle": 1.0,
+      "UseScanEmissionAddToggle": 1.0,
+      "_AlphaBottomOffset": -1.32,
+      "_AlphaBottomRange": 3.0,
+      "_AlphaOffset": -1.32,
+      "_AlphaRange": 3.0,
+      "_BlendOP": 0.0,
+      "_BottomAlphaToggle": 0.0,
+      "_BumpScale": 1.0,
+      "_ColorGradientOffset": -2.0,
+      "_ColorGradientRange": 3.0,
+      "_Cull": 2.0,
+      "_Cutoff": 0.5,
+      "_DepthFade": 1.0,
+      "_DepthThresh": 1.0,
+      "_DetailBrightness": 0.35,
+      "_DetailNormalMapScale": 1.0,
+      "_DetailSpeed": 1.0,
+      "_DissolveDirection_Toggle": 0.0,
+      "_DstBlend": 0.0,
+      "_DstBlendMode": 10.0,
+      "_Dx11ShaderPsScore": 64.0,
+      "_Dx11ShaderScore": 93.0,
+      "_Dx11ShaderVsScore": 29.0,
+      "_EmissionADDWarpSoft": 1.0,
+      "_EmissionNoiseScale": 0.0,
+      "_EmissionScaler": 3.0,
+      "_Emission_ADD_Scale": 100.0,
+      "_Emission_ADD_USpeed": 0.01,
+      "_Emission_ADD_VSpeed": 0.03,
+      "_Emission_Noise_Uspeed": 0.0,
+      "_Emission_Noise_Vspeed": 0.0,
+      "_GlassSpecularDetailLength": 0.4,
+      "_GlassSpecularDetailLengthRange": 0.404,
+      "_GlassSpecularDetailOffset": 0.82,
+      "_GlassSpecularOffset": 2.0,
+      "_GlassSpecularSmooth": 0.5,
+      "_GlassThickness": 6.0,
+      "_GlassThicknessScale": 3.37,
+      "_GlassTiling": 1.6,
+      "_GlassTilingFar": 35.0,
+      "_GlassTilingNear": 35.0,
+      "_GlasspecularDistance": 1.0,
+      "_GlasspecularLength": 0.389,
+      "_GlasspecularLengthRange": 0.312,
+      "_GlossMapScale": 1.0,
+      "_Glossiness": 0.5,
+      "_GlossyReflections": 1.0,
+      "_MHYZBias": 0.0,
+      "_MainColorScaler": 2.5,
+      "_Metallic": 0.0,
+      "_Mode": 0.0,
+      "_Normal01_U_Speed": 0.0,
+      "_Normal01_VSpeed": 0.0,
+      "_Normal02_U_Speed": 0.0,
+      "_Normal02_V_Speed": 0.0,
+      "_OcclusionStrength": 1.0,
+      "_Opacity": 1.0,
+      "_Parallax": 0.02,
+      "_Pattern_Speed": 3.71,
+      "_PolygonOffsetFactor": 0.0,
+      "_PolygonOffsetUnit": 0.0,
+      "_ReflectionBrightness": 0.0,
+      "_ReflectionIntensity": 0.6,
+      "_SOFTPARTICLES": 0.0,
+      "_ScanColorScaler": 0.0,
+      "_ScanDirection_Switch": 1.0,
+      "_ScanSpeed": 0.5,
+      "_ShadowStrength": 0.0,
+      "_SmoothnessTextureChannel": 0.0,
+      "_SpecularHighlights": 1.0,
+      "_SprayOffset": -2.0,
+      "_SprayRange": 3.0,
+      "_SrcBlend": 1.0,
+      "_SrcBlendMode": 5.0,
+      "_UVSec": 0.0,
+      "_WaterFall01_Speed": 0.58,
+      "_Waterfall01Brightness": 0.7,
+      "_Waterfall02Brightness": 0.4,
+      "_Waterfall02_Speed": 0.6,
+      "_WeaponDissolveValue": 1.0,
+      "_ZWrite": 1.0,
+      "_Ztest": 4.0,
+      "_Zwrite": 1.0
+    },
+    "m_Colors": {
+      "_BottomColor": {
+        "r": 0.7647059,
+        "g": 0.7647059,
+        "b": 0.7647059,
+        "a": 0.0
+      },
+      "_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_DayColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_DistortionIntensity": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_EmissionColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_Emission_ADD_Color": {
+        "r": 0.20588237,
+        "g": 0.20588237,
+        "b": 0.20588237,
+        "a": 0.0
+      },
+      "_GlassSpecularColor": {
+        "r": 0.5294118,
+        "g": 0.2055095,
+        "b": 0.15960208,
+        "a": 0.0
+      },
+      "_GlassSpecularDetailColor": {
+        "r": 0.4852941,
+        "g": 0.27119377,
+        "b": 0.27119377,
+        "a": 0.0
+      },
+      "_GlassThicknessColor": {
+        "r": 0.52205884,
+        "g": 0.15725292,
+        "b": 0.023031998,
+        "a": 0.0
+      },
+      "_MainColor": {
+        "r": 0.85294116,
+        "g": 0.38858137,
+        "b": 0.087802745,
+        "a": 1.0
+      },
+      "_ReflectionColor_Dark": {
+        "r": 0.07058821,
+        "g": 0.22745097,
+        "b": 0.15686277,
+        "a": 0.0
+      },
+      "_ReflectionColor_Light": {
+        "r": 0.8666667,
+        "g": 0.9411765,
+        "b": 0.9294118,
+        "a": 0.0
+      },
+      "_ScanColor": {
+        "r": 0.8980392,
+        "g": 0.8980392,
+        "b": 0.8980392,
+        "a": 1.0
+      },
+      "_TopColor": {
+        "r": 0.0,
+        "g": 1.0,
+        "b": 0.58620685,
+        "a": 0.0
+      },
+      "_WeaponPatternColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      }
+    }
+  },
+  "m_Name": "SkillObj_Mavuika_Glass_Eff_Mat",
+  "Name": "SkillObj_Mavuika_Glass_Eff_Mat"
+}
