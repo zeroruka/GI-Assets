@@ -1,0 +1,825 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": -5030116878936476770,
+    "Name": "miHoYo/Character/Character_Base_Uber",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_BumpMap": {
+        "m_Texture": {
+          "m_FileID": 5,
+          "m_PathID": -8587061325865312487,
+          "Name": "Avatar_Loli_Pole_Iansan_Tex_Body_Normal",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_FaceMapTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_LightMapBlueNoise": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_LightMapTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": -2961754963454475597,
+          "Name": "Avatar_Loli_Pole_Iansan_Tex_Body_Lightmap",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MTMap": {
+        "m_Texture": {
+          "m_FileID": 6,
+          "m_PathID": -867313356815120306,
+          "Name": "Avatar_Tex_MetalMap",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MTSpecularRamp": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 4,
+          "m_PathID": -4913987222092373740,
+          "Name": "Avatar_Loli_Pole_Iansan_Tex_Body_Diffuse",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MaterialMasksTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_NormalPackageMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_NyxStateOutlineColorRamp": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_NyxStateOutlineNoise": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_PackageLightMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_PackedShadowRampTex": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": -7278873354571847758,
+          "Name": "Avatar_Loli_Pole_Iansan_Tex_Body_Shadow_Ramp",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_TempNyxStatePaintMaskTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_TextureLinePackageMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_ASEHeader": 0.0,
+      "_AnimBoneOffset": 0.0,
+      "_AnimFPS": 15.0,
+      "_BumpScale": 1.0,
+      "_CharacterAmbientSensorColorOn": 0.0,
+      "_CharacterAmbientSensorForceShadowOn": 0.0,
+      "_CharacterAmbientSensorShadowOn": 0.0,
+      "_CharacterEmission": 0.0,
+      "_CharacterMainTex": 0.0,
+      "_CharacterShadow": 0.0,
+      "_ClipAlphaHighLightScale": 0.0,
+      "_ClipAlphaThreshold": 0.0,
+      "_ClipAlphaUVSet": 0.0,
+      "_ClipBoxHighLightScale": 0.2,
+      "_ClipDissolveDirection": 0.0,
+      "_ClipDissolveHightlightScale": 1.0,
+      "_ClipDissolveValue": 1.0,
+      "_ClipMethod": 0.0,
+      "_ClipPlaneWorld": 1.0,
+      "_CullMode": 2.0,
+      "_Cutoff": 0.5,
+      "_DetailNormalMapScale": 1.0,
+      "_DitherAlpha": 1.0,
+      "_DrawBackFace": 0.0,
+      "_DstBlend": 0.0,
+      "_DummyFixedForNormal": 1.0,
+      "_DummyHitColor": 0.0,
+      "_DummyMainSettings": 0.0,
+      "_DummyMaterial2": 0.0,
+      "_DummyMaterial3": 0.0,
+      "_DummyMaterial4": 0.0,
+      "_DummyMaterial5": 0.0,
+      "_DummyOutline": 0.0,
+      "_DummyTextureLine": 0.0,
+      "_DummyUseDither": 0.0,
+      "_Dx11ShaderPsScore": 125.0,
+      "_Dx11ShaderScore": 247.0,
+      "_Dx11ShaderVsScore": 121.0,
+      "_ElementViewEleID": 0.0,
+      "_EmissionScaler": 1.0,
+      "_EmissionScaler1": 1.0,
+      "_EmissionScaler2": 1.0,
+      "_EmissionScaler3": 1.0,
+      "_EmissionScaler4": 1.0,
+      "_EmissionScaler5": 1.0,
+      "_EmissionStrengthLerp": 0.0,
+      "_EnableCustomParams": 0.0,
+      "_EnableDistanceLerp": 0.0,
+      "_EnablePerformance": 0.0,
+      "_FaceBlushStrength": 0.0,
+      "_FaceMapRotateOffset": 0.0,
+      "_FaceMapSoftness": 1E-06,
+      "_FlareType": 0.0,
+      "_GlossMapScale": 1.0,
+      "_Glossiness": 0.5,
+      "_GlossyReflections": 1.0,
+      "_HitColorFresnelPower": 1.5,
+      "_HitColorScaler": 6.0,
+      "_InstanceData": 0.0,
+      "_LightArea": 0.5,
+      "_LightMapBlurSize": 1.0,
+      "_LightMapLayerEnum": 0.0,
+      "_MHYZBias": 0.0,
+      "_MTMapBrightness": 1.0,
+      "_MTMapTileScale": 1.0,
+      "_MTSharpLayerOffset": 1.0,
+      "_MTShininess": 11.0,
+      "_MTSpecularAttenInShadow": 0.2,
+      "_MTSpecularOffset": 0.0,
+      "_MTSpecularScale": 60.0,
+      "_MTUseSpecularRamp": 0.0,
+      "_MainSettingsGroup": 0.0,
+      "_MainTexAlphaCutoff": 0.5,
+      "_MainTexAlphaUse": 0.0,
+      "_MainTexColoring": 0.0,
+      "_MaxOutlineZOffset": 1.0,
+      "_MetalMaterial": 0.0,
+      "_Metallic": 0.0,
+      "_Mode": 0.0,
+      "_NormalMapLayerEnum": 0.0,
+      "_NormalMapOffset": 0.0,
+      "_NormalMapScale": 0.0,
+      "_NyxStateEnableOutlineVertAnimScaleHeightLerp": 0.0,
+      "_NyxStateEnableOutlineWidthScaleHeightLerp": 0.0,
+      "_NyxStateOutlineColorNoiseTurbulence": 0.25,
+      "_NyxStateOutlineColorOnBodyOpacity": 1.0,
+      "_NyxStateOutlineColorScale": 1.0,
+      "_NyxStateOutlineVertAnimScale": 30.0,
+      "_NyxStateOutlineWidthScale": 5.0,
+      "_OcclusionStrength": 1.0,
+      "_OutLineIntensity": 0.0,
+      "_OutLineIntensity2": 0.0,
+      "_OutLineIntensity3": 0.0,
+      "_OutLineIntensity4": 0.0,
+      "_OutLineIntensity5": 0.0,
+      "_OutlineGroup": 0.0,
+      "_OutlineMotionVectorsCull": 1.0,
+      "_OutlinePolygonOffsetFactor": 0.0,
+      "_OutlinePolygonOffsetUnit": 0.0,
+      "_OutlineType": 2.0,
+      "_OutlineWidth": 0.03,
+      "_PackageLightMapToggle": 0.0,
+      "_PackageNormalMapToggle": 0.0,
+      "_Parallax": 0.02,
+      "_PolygonOffsetFactor": 0.0,
+      "_PolygonOffsetUnit": 0.0,
+      "_Scale": 0.01,
+      "_ShadowRampWidth": 1.0,
+      "_ShadowTransitionRange": 0.01,
+      "_ShadowTransitionRange2": 0.01,
+      "_ShadowTransitionRange3": 0.01,
+      "_ShadowTransitionRange4": 0.01,
+      "_ShadowTransitionRange5": 0.01,
+      "_ShadowTransitionSoftness": 0.5,
+      "_ShadowTransitionSoftness2": 0.5,
+      "_ShadowTransitionSoftness3": 0.5,
+      "_ShadowTransitionSoftness4": 0.5,
+      "_ShadowTransitionSoftness5": 0.5,
+      "_Shininess": 10.0,
+      "_Shininess2": 10.0,
+      "_Shininess3": 10.0,
+      "_Shininess4": 10.0,
+      "_Shininess5": 10.0,
+      "_SmoothnessTextureChannel": 0.0,
+      "_SpecMulti": 0.1,
+      "_SpecMulti2": 0.1,
+      "_SpecMulti3": 0.1,
+      "_SpecMulti4": 0.1,
+      "_SpecMulti5": 0.1,
+      "_SpecOpacity": 0.0,
+      "_SpecOpacity2": 0.0,
+      "_SpecOpacity3": 0.0,
+      "_SpecOpacity4": 0.0,
+      "_SpecOpacity5": 0.0,
+      "_SpecualrInShaow": 0.0,
+      "_SpecularHighlights": 1.0,
+      "_SrcBlend": 1.0,
+      "_TempNyxStatePaintMaskChannel": 0.0,
+      "_TessEdgeLength": 10.0,
+      "_TessOutlineZOffset": 0.0,
+      "_TessPidStart": 0.0,
+      "_TessStrength": 1.0,
+      "_TessType": 0.0,
+      "_TessellationCheckInflectionOn": 1.0,
+      "_TessellationOn": 0.0,
+      "_TextureBiasWhenDithering": -1.0,
+      "_TextureLineSmoothness": 0.1,
+      "_TextureLineThickness": 0.6,
+      "_UVSec": 0.0,
+      "_UseBackFaceUV2": 1.0,
+      "_UseBumpMap": 1.0,
+      "_UseClipPlane": 0.0,
+      "_UseClipping": 0.0,
+      "_UseCoolShadowColorOrTex": 1.0,
+      "_UseFaceMapNew": 0.0,
+      "_UseLightMapColorAO": 1.0,
+      "_UseMaterial2": 0.0,
+      "_UseMaterial3": 0.0,
+      "_UseMaterial4": 0.0,
+      "_UseMaterial5": 0.0,
+      "_UseMaterialMasksTex": 0.0,
+      "_UseShadowRamp": 1.0,
+      "_UseShadowTransition": 0.0,
+      "_UseSpecular": 0.0,
+      "_UseToonLightMap": 1.0,
+      "_UseVertexColorAO": 1.0,
+      "_UseVertexRampWidth": 0.0,
+      "_UsingDitherAlpha": 0.0,
+      "_UtilityDisplay1": 0.0,
+      "_UtilityDisplay2": 0.0,
+      "_ZWrite": 1.0,
+      "_isNativeMainNormal": 0.0,
+      "_shadowSoftRange": 1.0,
+      "_shadowSoftRange2": 0.0,
+      "_shadowSoftRange3": 0.0,
+      "_shadowSoftRange4": 0.0,
+      "_shadowSoftRange5": 0.0,
+      "_useShadowSoft": 0.0,
+      "_useShadowSoft2": 0.0,
+      "_useShadowSoft3": 0.0,
+      "_useShadowSoft4": 0.0,
+      "_useShadowSoft5": 0.0
+    },
+    "m_Colors": {
+      "_CharacterCubeColor2": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_CharacterCubeColor3": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_CharacterCubeColor4": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_CharacterCubeColor5": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_ClipBoxPositionOffset": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_ClipBoxScale": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 1.0
+      },
+      "_ClipHighLightColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_ClipPlane": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_Color2": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_Color3": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_Color4": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_Color5": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_CoolShadowMultColor": {
+        "r": 0.9,
+        "g": 0.7,
+        "b": 0.75,
+        "a": 1.0
+      },
+      "_CoolShadowMultColor2": {
+        "r": 0.9,
+        "g": 0.7,
+        "b": 0.75,
+        "a": 1.0
+      },
+      "_CoolShadowMultColor3": {
+        "r": 0.9,
+        "g": 0.7,
+        "b": 0.75,
+        "a": 1.0
+      },
+      "_CoolShadowMultColor4": {
+        "r": 0.9,
+        "g": 0.7,
+        "b": 0.75,
+        "a": 1.0
+      },
+      "_CoolShadowMultColor5": {
+        "r": 0.9,
+        "g": 0.7,
+        "b": 0.75,
+        "a": 1.0
+      },
+      "_ElementRimColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_EmissionColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_EmissionColor_MHY": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EmissionColor_MHY1": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EmissionColor_MHY2": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EmissionColor_MHY3": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EmissionColor_MHY4": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EmissionColor_MHY5": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_FaceBlushColor": {
+        "r": 1.0,
+        "g": 0.8,
+        "b": 0.7,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor": {
+        "r": 0.9,
+        "g": 0.7,
+        "b": 0.75,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor2": {
+        "r": 0.9,
+        "g": 0.7,
+        "b": 0.75,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor3": {
+        "r": 0.9,
+        "g": 0.7,
+        "b": 0.75,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor4": {
+        "r": 0.9,
+        "g": 0.7,
+        "b": 0.75,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor5": {
+        "r": 0.9,
+        "g": 0.7,
+        "b": 0.75,
+        "a": 1.0
+      },
+      "_HitColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_MTMapDarkColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_MTMapLightColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_MTShadowMultiColor": {
+        "r": 0.8,
+        "g": 0.8,
+        "b": 0.8,
+        "a": 0.8
+      },
+      "_MTSharpLayerColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_MTSpecularColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_MainTexTintColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_NyxStateOutlineColorNoiseAnim": {
+        "r": 0.05,
+        "g": 0.05,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_NyxStateOutlineColorNoiseScale": {
+        "r": 2.0,
+        "g": 2.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_NyxStateOutlineColorOnBodyMultiplier": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_NyxStateOutlineVertAnimNoiseAnim": {
+        "r": 0.05,
+        "g": 0.05,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_NyxStateOutlineVertAnimNoiseScale": {
+        "r": 2.0,
+        "g": 2.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_NyxStateOutlineVertAnimScaleLerpHeightRange": {
+        "r": 0.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_NyxStateOutlineVertAnimScaleRange": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_NyxStateOutlineWidthScaleLerpHeightRange": {
+        "r": 0.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_NyxStateOutlineWidthScaleRange": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_NyxStateOutlineWidthVarietyWithResolution": {
+        "r": 1080.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_OutlineColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_OutlineColor2": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_OutlineColor3": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_OutlineColor4": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_OutlineColor5": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_OutlineWidthAdjustScales": {
+        "r": 0.105,
+        "g": 0.245,
+        "b": 0.6,
+        "a": 0.0
+      },
+      "_OutlineWidthAdjustZs": {
+        "r": 0.01,
+        "g": 2.0,
+        "b": 6.0,
+        "a": 0.0
+      },
+      "_SingleColorOutputColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SpecularColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SpecularColor2": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SpecularColor3": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SpecularColor4": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SpecularColor5": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_TextureLineDistanceControl": {
+        "r": 0.1,
+        "g": 0.6,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_TextureLineMultiplier": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "Avatar_Loli_Pole_Iansan_Mat_Dress",
+  "Name": "Avatar_Loli_Pole_Iansan_Mat_Dress"
+}
