@@ -1,0 +1,838 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": -5669418950705937175,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_AnimTextureQ": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_AnimTextureT": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_BlockHighlightMask": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": -7052470464921363095,
+          "Name": "Avatar_Girl_Undefined_Skirk_Tex_Effect_Lightmap",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_BrightLineMask": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": 1694835710007653167,
+          "Name": "Eff_Noise_01",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_BumpMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_ClipAlphaTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_FaceMapTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_LightMapTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MTMap": {
+        "m_Texture": {
+          "m_FileID": 4,
+          "m_PathID": -867313356815120306,
+          "Name": "Avatar_Tex_MetalMap",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MTSpecularRamp": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 5,
+          "m_PathID": 316237019680911212,
+          "Name": "Avatar_Girl_Undefined_Skirk_Tex_Effect_Diffuse",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MaterialMasksTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_PackedShadowRampTex": {
+        "m_Texture": {
+          "m_FileID": 6,
+          "m_PathID": 1651376887018225059,
+          "Name": "Avatar_Girl_Undefined_Skirk_Tex_Effect_Shadow_Ramp",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_StarMask": {
+        "m_Texture": {
+          "m_FileID": 7,
+          "m_PathID": 8699687980720839202,
+          "Name": "Avatar_Girl_Undefined_Skirk_Tex_Effect_Mask",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_StarTex": {
+        "m_Texture": {
+          "m_FileID": 8,
+          "m_PathID": 1932107700978828902,
+          "Name": "Avatar_Girl_Undefined_Skirk_Tex_Star_Mask",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_texcoord": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_ASEHeader": 0.0,
+      "_AnimBoneOffset": 0.0,
+      "_AnimFPS": 15.0,
+      "_BlockHighlightByViewWeight": 1.0,
+      "_BlockHighlightFlowSpeed": 0.0,
+      "_BlockHighlightRange": 0.9,
+      "_BlockHighlightSoftness": 0.3,
+      "_BlockHighlightSpeed": 0.0,
+      "_BlockHighlightViewWeight": 0.5,
+      "_BrightLineMaskByUV": 0.0,
+      "_BrightLineMaskContrast": 0.5,
+      "_BrightLineUVMode": 0.0,
+      "_BumpOffsetHeight": 0.35,
+      "_BumpScale": 1.0,
+      "_BumpTexIntensity": 1.0,
+      "_CharacterAmbientSensorColorOn": 0.0,
+      "_CharacterAmbientSensorForceShadowOn": 0.0,
+      "_CharacterAmbientSensorShadowOn": 0.0,
+      "_ClipAlphaHighLightScale": 0.0,
+      "_ClipAlphaThreshold": 0.0,
+      "_ClipAlphaUVSet": 0.0,
+      "_ClipBoxHighLightScale": 0.2,
+      "_ClipDissolveDirection": 0.0,
+      "_ClipDissolveHightlightScale": 1.0,
+      "_ClipDissolveValue": 1.0,
+      "_ClipMethod": 0.0,
+      "_ClipPlaneWorld": 1.0,
+      "_CloakViewWeight": 0.85,
+      "_CrystalNoiseTexUVMode": 0.0,
+      "_CrystalRange": 0.5,
+      "_CrystalRangeSoftness": 0.001,
+      "_CubeMapBrightness": 1.5,
+      "_CubeMapIntensity": 0.3,
+      "_CullMode": 2.0,
+      "_Cutoff": 0.5,
+      "_DetailNormalMapScale": 1.0,
+      "_DitherAlpha": 1.0,
+      "_DrawBackFace": 0.0,
+      "_DstBlend": 0.0,
+      "_ElementViewEleID": 0.0,
+      "_EmissionScaler": 0.0,
+      "_EmissionScaler1": 1.0,
+      "_EmissionScaler2": 1.0,
+      "_EmissionScaler3": 1.0,
+      "_EmissionScaler4": 1.0,
+      "_EmissionScaler5": 1.0,
+      "_EmissionStrengthLerp": 1.0,
+      "_FaceBlushStrength": 0.0,
+      "_FaceMapRotateOffset": 0.0,
+      "_FaceMapSoftness": 1E-06,
+      "_Float1": 0.9,
+      "_Float2": 0.2,
+      "_Fresnal_Power": 1.5,
+      "_Fresnal_Scale": 0.7,
+      "_FresnelPower": 1.0,
+      "_FrozenEmissionStrength": 0.6,
+      "_FrozenIntensity": 0.0,
+      "_GlassLightSpeed": 0.2,
+      "_GlossMapScale": 1.0,
+      "_Glossiness": 0.5,
+      "_GlossyReflections": 1.0,
+      "_HitColorFresnelPower": 2.0,
+      "_HitColorScaler": 2.0,
+      "_InstanceData": 0.0,
+      "_IsNormalTriplanarSampler": 0.0,
+      "_IsTriplanarSampler": 0.0,
+      "_LightArea": 0.261,
+      "_LightStarFlickRange": 0.013,
+      "_LightStarTiling": 0.3,
+      "_MTMapBrightness": 1.0,
+      "_MTMapTileScale": 1.0,
+      "_MTSharpLayerOffset": 1.0,
+      "_MTShininess": 11.0,
+      "_MTSpecularAttenInShadow": 0.2,
+      "_MTSpecularScale": 60.0,
+      "_MTUseSpecularRamp": 0.0,
+      "_MainTexAlphaCutoff": 0.5,
+      "_MainTexAlphaUse": 0.0,
+      "_MainTexColoring": 0.0,
+      "_MaskBWeight": 0.0,
+      "_MaskGRampBrightness": 1.0,
+      "_MaskGRampWeight": 0.0,
+      "_MaskRWeight": 1.0,
+      "_MaxOutlineZOffset": 1.0,
+      "_MetalMaterial": 0.0,
+      "_Metallic": 0.0,
+      "_Mode": 0.0,
+      "_OcclusionStrength": 1.0,
+      "_OutlinePolygonOffsetFactor": 0.0,
+      "_OutlinePolygonOffsetUnit": 0.0,
+      "_OutlineType": 2.0,
+      "_OutlineWidth": 0.03,
+      "_Parallax": 0.02,
+      "_PolygonOffsetFactor": 0.0,
+      "_PolygonOffsetUnit": 0.0,
+      "_Scale": 0.01,
+      "_ShadowRampWidth": 1.0,
+      "_ShadowTransitionRange": 0.01,
+      "_ShadowTransitionRange2": 0.01,
+      "_ShadowTransitionRange3": 0.01,
+      "_ShadowTransitionRange4": 0.01,
+      "_ShadowTransitionRange5": 0.01,
+      "_ShadowTransitionSoftness": 0.5,
+      "_ShadowTransitionSoftness2": 0.5,
+      "_ShadowTransitionSoftness3": 0.5,
+      "_ShadowTransitionSoftness4": 0.5,
+      "_ShadowTransitionSoftness5": 0.5,
+      "_Shininess": 2.0,
+      "_Shininess2": 10.0,
+      "_Shininess3": 10.0,
+      "_Shininess4": 10.0,
+      "_Shininess5": 10.0,
+      "_SkipCrystalByVerColG": 0.0,
+      "_SmoothnessTextureChannel": 0.0,
+      "_SpecMulti": 0.0,
+      "_SpecMulti2": 0.1,
+      "_SpecMulti3": 0.1,
+      "_SpecMulti4": 0.1,
+      "_SpecMulti5": 0.1,
+      "_SpecularHighlights": 1.0,
+      "_SrcBlend": 1.0,
+      "_Star2Height": 1.0,
+      "_Star2Tiling": 1.0,
+      "_StarFlickRange": 0.377,
+      "_StarFlickerRange": 0.5,
+      "_StarHeight": 0.05,
+      "_StarRamp2Brightness": 0.0,
+      "_StarRamp2Weight": 0.0,
+      "_StarRampBlendMode": 0.0,
+      "_StarRampBrightness": 0.0,
+      "_StarRampWeight": 0.0,
+      "_StarTiling": 1.0,
+      "_TessEdgeLength": 10.0,
+      "_TessOutlineZOffset": 0.0,
+      "_TessPidStart": 0.0,
+      "_TessStrength": 1.0,
+      "_TessType": 0.0,
+      "_TessellationCheckInflectionOn": 1.0,
+      "_TessellationOn": 0.0,
+      "_TextureBiasWhenDithering": -1.0,
+      "_TextureLineSmoothness": 0.1,
+      "_TextureLineThickness": 0.6,
+      "_TillingNormalTiling": 1.0,
+      "_TriplanarTexTiling": 1.0,
+      "_UVLerpColorBlendMode": 0.0,
+      "_UVLerpMode": 1.0,
+      "_UVLerpRange": 0.0,
+      "_UVLerpSoftness": 0.001,
+      "_UVLerpWeight": 1.0,
+      "_UVSec": 0.0,
+      "_UseBackFaceUV2": 0.0,
+      "_UseBumpMap": 0.0,
+      "_UseClipPlane": 0.0,
+      "_UseClipping": 0.0,
+      "_UseCoolShadowColorOrTex": 1.0,
+      "_UseFaceMapNew": 0.0,
+      "_UseLightMapColorAO": 1.0,
+      "_UseMaterial2": 0.0,
+      "_UseMaterial3": 0.0,
+      "_UseMaterial4": 0.0,
+      "_UseMaterial5": 0.0,
+      "_UseMaterialMasksTex": 0.0,
+      "_UseScreenUV": 1.0,
+      "_UseShadowRamp": 1.0,
+      "_UseShadowTransition": 0.0,
+      "_UseToonLightMap": 1.0,
+      "_UseVertexColorAO": 1.0,
+      "_UseVertexRampWidth": 0.0,
+      "_UsingDitherAlpha": 0.0,
+      "_UtilityDisplay1": 0.0,
+      "_UtilityDisplay2": 0.0,
+      "_ZWrite": 1.0,
+      "_normalHeight": 0.0
+    },
+    "m_Colors": {
+      "_BlockHighlightColor": {
+        "r": 0.23897058,
+        "g": 0.2406186,
+        "b": 0.47794116,
+        "a": 1.0
+      },
+      "_BrightLineColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_BrightLineMaskSpeed": {
+        "r": 0.0,
+        "g": 0.08,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_ClipBoxPositionOffset": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_ClipBoxScale": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 1.0
+      },
+      "_ClipHighLightColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_ClipPlane": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_Color2": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_Color3": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_Color4": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_Color5": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_CoolShadowMultColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_CoolShadowMultColor2": {
+        "r": 0.9,
+        "g": 0.7,
+        "b": 0.75,
+        "a": 1.0
+      },
+      "_CoolShadowMultColor3": {
+        "r": 0.9,
+        "g": 0.7,
+        "b": 0.75,
+        "a": 1.0
+      },
+      "_CoolShadowMultColor4": {
+        "r": 0.9,
+        "g": 0.7,
+        "b": 0.75,
+        "a": 1.0
+      },
+      "_CoolShadowMultColor5": {
+        "r": 0.9,
+        "g": 0.7,
+        "b": 0.75,
+        "a": 1.0
+      },
+      "_CrystalNoiseColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_CrystalNoiseSpeed": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_ElementRimColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_EmissionColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_EmissionColor_MHY": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_FaceBlushColor": {
+        "r": 1.0,
+        "g": 0.8,
+        "b": 0.7,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor2": {
+        "r": 0.9,
+        "g": 0.7,
+        "b": 0.75,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor3": {
+        "r": 0.9,
+        "g": 0.7,
+        "b": 0.75,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor4": {
+        "r": 0.9,
+        "g": 0.7,
+        "b": 0.75,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor5": {
+        "r": 0.9,
+        "g": 0.7,
+        "b": 0.75,
+        "a": 1.0
+      },
+      "_FresnelColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_GlassLightColor": {
+        "r": 0.66632867,
+        "g": 0.6544118,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_Highlight_Color": {
+        "r": 0.7573528,
+        "g": 0.9397566,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_HitColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_IceDarkColor": {
+        "r": 0.03746757,
+        "g": 0.06112113,
+        "b": 0.08088235,
+        "a": 0.0
+      },
+      "_IceLightColor": {
+        "r": 0.5409278,
+        "g": 0.7447352,
+        "b": 0.8455882,
+        "a": 0.0
+      },
+      "_LightStarFlickColor": {
+        "r": 2.2290003,
+        "g": 2.2290003,
+        "b": 2.2290003,
+        "a": 1.0
+      },
+      "_MTMapDarkColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_MTMapLightColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_MTShadowMultiColor": {
+        "r": 0.8,
+        "g": 0.8,
+        "b": 0.8,
+        "a": 0.8
+      },
+      "_MTSharpLayerColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_MTSpecularColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_MainTexTintColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_MaskBColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_NormalIntensity": {
+        "r": 0.59099996,
+        "g": 0.597,
+        "b": 0.7779999,
+        "a": 0.003921569
+      },
+      "_OutlineColor": {
+        "r": 0.27476212,
+        "g": 0.27249137,
+        "b": 0.46323532,
+        "a": 1.0
+      },
+      "_OutlineColor2": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_OutlineColor3": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_OutlineColor4": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_OutlineColor5": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_OutlineWidthAdjustScales": {
+        "r": 0.105,
+        "g": 0.245,
+        "b": 0.6,
+        "a": 0.0
+      },
+      "_OutlineWidthAdjustZs": {
+        "r": 0.01,
+        "g": 2.0,
+        "b": 6.0,
+        "a": 0.0
+      },
+      "_SingleColorOutputColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SpecularColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_Star2Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_Star2Speed": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_StarColor": {
+        "r": 0.7607844,
+        "g": 0.63529414,
+        "b": 0.89019614,
+        "a": 1.0
+      },
+      "_StarFlickColor": {
+        "r": 4.8615613,
+        "g": 4.227941,
+        "b": 5.0,
+        "a": 1.0
+      },
+      "_StarFlickerColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_StarFlickerParameters": {
+        "r": 0.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_StarSpeed": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_StarTexSpeed": {
+        "r": 0.0,
+        "g": 0.03,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_TextureLineDistanceControl": {
+        "r": 0.1,
+        "g": 0.6,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_TextureLineMultiplier": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_TransformScale": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_UVLerpColor1": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_UVLerpColor2": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "Avatar_Girl_Undefined_Skirk_Mat_Dress2",
+  "Name": "Avatar_Girl_Undefined_Skirk_Mat_Dress2"
+}
