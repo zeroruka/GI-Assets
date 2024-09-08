@@ -1,0 +1,68 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": 6110142139804366865,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "Emission_Type": 0.0,
+      "_BumpScale": 1.0,
+      "_Cutoff": 0.5,
+      "_DetailNormalMapScale": 1.0,
+      "_DstBlend": 0.0,
+      "_ElementViewEleID": 0.0,
+      "_EmissionStrength": 10.0,
+      "_GlossMapScale": 1.0,
+      "_Glossiness": 0.5,
+      "_GlossyReflections": 1.0,
+      "_MaterialShadowBias": 0.0,
+      "_Metallic": 0.0,
+      "_Mode": 0.0,
+      "_OcclusionStrength": 1.0,
+      "_Parallax": 0.02,
+      "_SmoothnessTextureChannel": 0.0,
+      "_SpecularHighlights": 1.0,
+      "_SrcBlend": 1.0,
+      "_UVSec": 0.0,
+      "_ZWrite": 1.0,
+      "_enableVertexColor": 0.0
+    },
+    "m_Colors": {
+      "_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EmissionColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "Avatar_Default_Mat",
+  "Name": "Avatar_Default_Mat"
+}
