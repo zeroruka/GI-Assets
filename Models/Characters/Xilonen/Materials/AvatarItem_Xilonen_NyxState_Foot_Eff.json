@@ -1,0 +1,445 @@
+{
+  "m_Shader": {
+    "m_FileID": 3,
+    "m_PathID": 3549621576824189646,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_BaseTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": -2113999250613022505,
+          "Name": "AvatarItem_Xilonen_NyxState_Tex_Diffuse",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_CrystalMaskTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_CrystalTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 3.0,
+          "Y": 3.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_DetailTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_TextureSample0": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_TextureSample1": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_TextureSample3": {
+        "m_Texture": {
+          "m_FileID": 1,
+          "m_PathID": -9112106372567157411,
+          "Name": "Eff_Avatar_Xilonen_04",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_texcoord": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "Emission_Type": 0.0,
+      "_Alhpaness": 0.5,
+      "_Alpha": 1.0,
+      "_AlphaBrightness": 1.0,
+      "_AlphaByVertexColor": 0.0,
+      "_AlphaFadeByDistanceToggle": 0.0,
+      "_AlphaFadeDistance": 2.0,
+      "_AlphaFadeDistanceInvertToggle": 0.0,
+      "_AlphaFadeDistanceTwoWay": 1000.0,
+      "_AlphaFadeDistanceTwoWayToggle": 0.0,
+      "_AlphaFadeOffset": 0.0,
+      "_AlphaFadeOffsetTwoWay": 0.0,
+      "_AlphaSoftedgePower": 1.0,
+      "_AlphaSoftedgeScale": 1.0,
+      "_AlphaSoftedgeToggle": 0.0,
+      "_AlphaSoftedgeTwoSideToggle": 0.0,
+      "_ApplyShading": 0.0,
+      "_AutoExposure": 0.0,
+      "_BaseTexAlphaBrightness": 1.0,
+      "_BaseTexAlphaChannelSwitch": 0.0,
+      "_BaseTexColorChannelSwitch": 0.0,
+      "_BaseTexURandomToggle": 0.0,
+      "_BaseTexVRandomToggle": 0.0,
+      "_BaseTex_Alpha": 1.0,
+      "_BaseTex_Alpha_ChanelSwitch": 1.0,
+      "_BaseTex_ChanelSwitch": 0.0,
+      "_BaseTex_ClampU": 0.0,
+      "_BaseTex_ClampV": 0.0,
+      "_BaseTex_FlipU": 0.0,
+      "_BaseTex_FlipV": 0.0,
+      "_BaseTex_SwapUV": 0.0,
+      "_BaseTex_Uspeed": 0.0,
+      "_BaseTex_Vspeed": 0.0,
+      "_BlendOP": 0.0,
+      "_BloomFactor": 1.0,
+      "_BumpScale": 1.0,
+      "_CameraFade": 0.0,
+      "_ColorBrightness": 1.0,
+      "_CrystalMaskFace_ChanelSwitich": 1.0,
+      "_CrystalMaskLine_ChanelSwitch": 0.0,
+      "_CrystalNoise_ChanelSwitich": 1.0,
+      "_Cull": 0.0,
+      "_Cutoff": 0.5,
+      "_DepthFade": 1.0,
+      "_DepthThresh": 1.0,
+      "_DetailNormalMapScale": 1.0,
+      "_Distortion": 0.0,
+      "_DistortionGScaler": 1.0,
+      "_DistortionIntensity": 5.0,
+      "_DistortionOpacity": 0.1,
+      "_DistortionRScaler": 1.0,
+      "_DistortionTexRG_Uspeed": 0.0,
+      "_DistortionTexRG_Vspeed": 0.3,
+      "_DitherAlpha": 1.0,
+      "_DstBlend": 0.0,
+      "_DstBlendMode": 10.0,
+      "_EffectUberTrans": 0.0,
+      "_EffectedByFog": 0.0,
+      "_EmissionScaler": 1.0,
+      "_EnableCorrectMV": 0.0,
+      "_Float6": 0.23,
+      "_Float7": 0.0,
+      "_FreeHandsOL_Channel": 0.0,
+      "_Fresnal_Alpha": 1.0,
+      "_Fresnal_Invert": 0.0,
+      "_Fresnal_Power": 4.0,
+      "_Fresnel_Power": 0.0,
+      "_GlossMapScale": 1.0,
+      "_Glossiness": 0.5,
+      "_GlossyReflections": 1.0,
+      "_LerpAlphaScaler": 1.0,
+      "_MHYZBias": 0.0,
+      "_MaskTexBlendModeToggle": 0.0,
+      "_MaskTexBrightness": 1.0,
+      "_MaskTexChannelSwitch": 2.0,
+      "_MaskTexToggle": 0.0,
+      "_MaskTex_ClampU": 0.0,
+      "_MaskTex_ClampV": 0.0,
+      "_MaskTex_FlipU": 0.0,
+      "_MaskTex_FlipV": 0.0,
+      "_MaskTex_SwapUV": 0.0,
+      "_MaskTex_Uspeed": 0.0,
+      "_MaskTex_Vspeed": 0.0,
+      "_Metallic": 0.0,
+      "_Mode": 0.0,
+      "_MotionVectorsAlphaCutoff": 0.1,
+      "_MusciTex_Channel": 1.0,
+      "_MusicAlpha": 0.0,
+      "_MusicCount_V": 5.0,
+      "_MusicLine_Count": 15.0,
+      "_MusicLine_Range": 0.38,
+      "_MusicTex_AmplitudeMax": 1.0,
+      "_MusicTex_DateTime": 0.0,
+      "_MusicTime_Debug": 0.0,
+      "_Music_Count": 15.0,
+      "_Music_Offset": 0.0,
+      "_Music_adc": 0.38,
+      "_NoiseIntensityOnMask": 0.0,
+      "_NoiseTexChannelSwitch": 0.0,
+      "_NoiseTexToggle": 0.0,
+      "_NoiseTexToggleOnBaseTex": 0.0,
+      "_NoiseTexUVRandomToggle": 0.0,
+      "_NoiseTex_ClampU": 0.0,
+      "_NoiseTex_ClampV": 0.0,
+      "_NoiseTex_FlipU": 0.0,
+      "_NoiseTex_FlipV": 0.0,
+      "_NoiseTex_SwapUV": 0.0,
+      "_NoiseTex_Uspeed": 1.0,
+      "_NoiseTex_Vspeed": 1.0,
+      "_Noise_Brightness": 1.0,
+      "_Noise_Offset": 0.0,
+      "_OcclusionStrength": 1.0,
+      "_Opacity": 1.0,
+      "_OutLine_Wight": 0.0,
+      "_Parallax": 0.02,
+      "_PolygonOffsetFactor": 0.0,
+      "_PolygonOffsetUnit": 0.0,
+      "_SOFTPARTICLES": 0.0,
+      "_SmoothnessTextureChannel": 0.0,
+      "_SpecularHighlights": 1.0,
+      "_SrcBlend": 1.0,
+      "_SrcBlendMode": 5.0,
+      "_TimeSpeed": 3.0,
+      "_UVSec": 0.0,
+      "_UseParticleInstancing": 0.0,
+      "_UsingDitherAlpha": 0.0,
+      "_Velocity_Z": 0.0,
+      "_ZWrite": 1.0,
+      "_Ztest": 4.0,
+      "_Zwrite": 0.0
+    },
+    "m_Colors": {
+      "_BaseTex_MirrorAdapt": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_CrystalColor": {
+        "r": 1.0,
+        "g": 0.7255578,
+        "b": 0.5147058,
+        "a": 1.0
+      },
+      "_CrystalColor_02": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_CrystalTex_UVSpeed": {
+        "r": 0.0,
+        "g": -0.2,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_DayColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_Detail_Range": {
+        "r": -0.2,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_DistortionAdjust": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_EmissionColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_Fresnal_Color": {
+        "r": 2.0,
+        "g": 1.6448276,
+        "b": 0.4852941,
+        "a": 1.0
+      },
+      "_Fresnel_Color": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_Fresnel_Ofsset": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_LerpColorDark": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_LerpColorLight": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_LightBit_Remap": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_MainColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_MaskTex_MirrorAdapt": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_MeshParticleColorArray": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_MusicColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_MusicScale_Offset": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_MusicTex_FlipBook": {
+        "r": 1.0,
+        "g": 480.0,
+        "b": 10.0,
+        "a": 0.0
+      },
+      "_NoiseTex_MirrorAdapt": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_OutLine_Color": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_ParticleTexCoord0Array": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_ParticleTexCoord1Array": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_ParticleUvScale": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_TinColor": {
+        "r": 2.0,
+        "g": 2.0,
+        "b": 2.0,
+        "a": 1.0
+      },
+      "_TintColor": {
+        "r": 1.0,
+        "g": 0.7046653,
+        "b": 0.33088237,
+        "a": 0.622
+      }
+    }
+  },
+  "m_Name": "AvatarItem_Xilonen_NyxState_Foot_Eff",
+  "Name": "AvatarItem_Xilonen_NyxState_Foot_Eff"
+}
