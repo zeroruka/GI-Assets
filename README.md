@@ -8,7 +8,7 @@ This repo contains the following models:
 
 - Character (5.2)
 - NPC (?.?)
-- Monster (3.8)
+- Monster (3.6)
 - SkillObj (3.5)
 - Weapon (5.2)
 - Indoor Interior (3.7)
