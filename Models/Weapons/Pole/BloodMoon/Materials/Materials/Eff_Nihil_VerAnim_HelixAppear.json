@@ -1,0 +1,226 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": -2634379502890503409,
+    "Name": "miHoYo/Effects/Nihil_VerAnim_Dissolve",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_BaseTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": -7174207772784860223,
+          "Name": "Eff_Turbulence_23",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 2.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_DissolveEdge_MaskTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_DissolveTex": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": 6976300985992114646,
+          "Name": "Eff_Water_Ripple_02_02",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 0.7
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.15
+        }
+      },
+      "_MaskTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_NoiseTex": {
+        "m_Texture": {
+          "m_FileID": 4,
+          "m_PathID": -9151591525885060806,
+          "Name": "Eff_Noise_13",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_VertexNormal_UV2Tex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_Alpha": 1.0,
+      "_AlphaBrightness": 10.0,
+      "_AlphaEdgeFade": 3.0,
+      "_BaseTexAlphaChannelSwitch": 3.0,
+      "_BaseTexColorChannelSwitch": 0.0,
+      "_BaseTex_Uspeed": 0.0,
+      "_BaseTex_Vspeed": 0.0,
+      "_BlendOP": 0.0,
+      "_ColorBrightness": 2.0,
+      "_Cull": 2.0,
+      "_DepthFade": 1.0,
+      "_DepthThresh": 1.0,
+      "_DissolveEdgeWidth": -2.47,
+      "_DissolveRemapMin": 1.07,
+      "_DissolveTexChannelSwitch": 0.0,
+      "_DissolveTexUVRandomToggle": 0.0,
+      "_DissolveTex_Uspeed": 0.0,
+      "_DissolveTex_Vspeed": 0.0,
+      "_DissolveValue": 0.441,
+      "_DstBlendMode": 10.0,
+      "_EffectedByFog": 0.0,
+      "_Fresnal_Power": 8.05,
+      "_Fresnal_Scale": 3.57,
+      "_InvertVertexAnim": 0.0,
+      "_LerpAlphaScaler": 0.6,
+      "_MHYZBias": 0.0,
+      "_MaskTexChannelSwitch": 0.0,
+      "_MaskTexToggle": 0.0,
+      "_MotionVectorsAlphaCutoff": 0.1,
+      "_NoiseTexChannelSwitch": 1.0,
+      "_NoiseTexToggle": 1.0,
+      "_NoiseTexUVRandomToggle": 0.0,
+      "_NoiseTex_Uspeed": 0.15,
+      "_NoiseTex_Vspeed": -0.5,
+      "_Noise_Brightness": 0.3,
+      "_Noise_Offset": 0.5,
+      "_PolygonOffsetFactor": 0.0,
+      "_PolygonOffsetUnit": 0.0,
+      "_RotationAngle": 13.0,
+      "_SOFTPARTICLES": 0.0,
+      "_SpaceMode": 1.0,
+      "_SrcBlendMode": 5.0,
+      "_Use2ColorToggle": 0.0,
+      "_UseInParticleSystem": 0.0,
+      "_UsePrefabRotate": 1.0,
+      "_UseTargetEndPos": 1.0,
+      "_VertexAnimLerp": 1.0,
+      "_VertexAnimValue": -0.51,
+      "_VertexNormalScale": 0.0,
+      "_Ztest": 4.0,
+      "_Zwrite": 0.0
+    },
+    "m_Colors": {
+      "_DayColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_DissolveEdgeColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_FresnelColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_LerpColorDark": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_LerpColorLight": {
+        "r": 1.0,
+        "g": 0.8014706,
+        "b": 0.8014706,
+        "a": 1.0
+      },
+      "_MainColor": {
+        "r": 1.0,
+        "g": 0.33062872,
+        "b": 0.029411793,
+        "a": 0.655
+      },
+      "_MeshParticleColorArray": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_RotationPrivotPos": {
+        "r": 0.22,
+        "g": 0.05,
+        "b": -0.3,
+        "a": 0.0
+      },
+      "_TargetEndPosAdjust": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_VertexOffsetEndPos": {
+        "r": -0.005,
+        "g": 0.005,
+        "b": 1.05,
+        "a": 0.0
+      }
+    }
+  },
+  "m_Name": "Eff_Nihil_VerAnim_HelixAppear",
+  "Name": "Eff_Nihil_VerAnim_HelixAppear"
+}
