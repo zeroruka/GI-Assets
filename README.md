@@ -13,4 +13,4 @@ This repo contains the following models:
 - Weapon (5.2)
 - Indoor Interior (3.7)
 
-### You may want to use [DownGit][(https://downgit.evecalm.com/#/home)] to download individual files that you need instead of cloning the entire repository
+### You may want to use [DownGit](https://downgit.evecalm.com/#/home) to download individual files that you need instead of cloning the entire repository
